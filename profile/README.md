@@ -1,4 +1,6 @@
-## Hi there 👋
+## Welcome to the VGD Organization!
+
+This Organization is where all VGD projects will be shared to.
 
 <!--
 
