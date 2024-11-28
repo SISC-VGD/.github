@@ -1,6 +1,6 @@
 ## Welcome to the VGD Organization!
 
-This Organization is where all VGD projects will be shared to.
+This organization contains templates for a variety of VGD projects such as console games, 2D games, and more.
 
 <!--
 
