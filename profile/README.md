@@ -2,6 +2,10 @@
 
 This organization contains templates for a variety of VGD projects such as console games, 2D games, and more.
 
+[Schoology](https://mukilteo.schoology.com/home#/?_k=u67jnw)
+[Course Docs]()
+[ZOOM]()
+
 <!--
 
 **Here are some ideas to get you started:**
