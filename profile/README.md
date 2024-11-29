@@ -2,19 +2,19 @@
 
 This organization contains templates for a variety of VGD projects such as console games, 2D games, and more.
 
-[Daily Slides]()
-[Calendar]()
-[Animation Website](https://sites.google.com/view/anisisc)
-[Course Docs](https://drive.google.com/drive/folders/1JLJOiYi6H8KVVI7T1DeuK21Kl3Sjkufd?usp=sharing)
-[ZOOM]()
-[Grades]()
-[Student Email]()
-[Training Grounds]()
-[Swag]()
-[AMES]()
-[Job Board]()
-[Scholarships]()
-[Resources]()
+[Daily Slides]()<br />
+[Calendar]()<br />
+[Animation Website](https://sites.google.com/view/anisisc)<br />
+[Course Docs](https://drive.google.com/drive/folders/1JLJOiYi6H8KVVI7T1DeuK21Kl3Sjkufd?usp=sharing)<br />
+[ZOOM]()<br />
+[Grades]()<br />
+[Student Email]()<br />
+[Training Grounds]()<br />
+[Swag]()<br />
+[AMES]()<br />
+[Job Board]()<br />
+[Scholarships]()<br />
+[Resources]()<br />
 
 <!--
 
