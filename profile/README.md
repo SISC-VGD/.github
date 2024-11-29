@@ -2,9 +2,20 @@
 
 This organization contains templates for a variety of VGD projects such as console games, 2D games, and more.
 
+[Daily Slides]()
+[Calendar]()
 [Schoology](https://mukilteo.schoology.com/home#/?_k=u67jnw)
-[Course Docs]()
+[Animation Website](https://sites.google.com/view/anisisc)
+[Course Docs](https://drive.google.com/drive/folders/1JLJOiYi6H8KVVI7T1DeuK21Kl3Sjkufd?usp=sharing)
 [ZOOM]()
+[Grades]()
+[Student Email]()
+[Training Grounds]()
+[Swag]()
+[AMES]()
+[Job Board]()
+[Scholarships]()
+[Resources]()
 
 <!--
 
