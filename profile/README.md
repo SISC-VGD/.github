@@ -1,4 +1,4 @@
-# Welcome to the VGD Organization!
+# Welcome to the Video Game Design!
 
 This organization contains templates for a variety of VGD projects such as console games, 2D games, and more.
 
