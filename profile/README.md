@@ -1,6 +1,6 @@
 # Welcome to Video Game Design!
 
-This organization acts as the home page for the Video Game Design class at Sno-Isle TECH Skills Center. It contains links to all class materials, as well as templates for a variety of projects such as console games, 2D games, and more.
+This organization is the home page for the Video Game Design class at Sno-Isle TECH Skills Center. It contains links to all class materials, templates for different projects types, and more!
 
 ## Course Docs
 
