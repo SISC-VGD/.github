@@ -4,10 +4,10 @@ This organization contains templates for a variety of VGD projects such as conso
 
 ## Course Docs
 
-[Daily Slides]()
-[Calendar]()
-[Google Drive](https://drive.google.com/drive/folders/1JLJOiYi6H8KVVI7T1DeuK21Kl3Sjkufd?usp=sharing)
-[ZOOM]()
+[Daily Slides]() &nbsp;&nbsp;&nbsp;
+[Calendar]() &nbsp;&nbsp;&nbsp;
+[Google Drive](https://drive.google.com/drive/folders/1JLJOiYi6H8KVVI7T1DeuK21Kl3Sjkufd?usp=sharing) &nbsp;&nbsp;&nbsp;
+[ZOOM]() &nbsp;&nbsp;&nbsp;
 
 ## Student Info
 
