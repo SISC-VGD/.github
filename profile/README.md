@@ -11,18 +11,18 @@ This organization contains templates for a variety of VGD projects such as conso
 
 ## Student Info
 
-[Grades]()
-[Mukilteo Email]()
+[Grades]() &nbsp;&nbsp;
+[Mukilteo Email]() &nbsp;&nbsp;
 
 ## Postings
 
-[Job Board]()
-[Scholarships]()
+[Job Board]() &nbsp;&nbsp;
+[Scholarships]() &nbsp;&nbsp;
 
 ## Miscellaneous
 
-[Animation Website](https://sites.google.com/view/anisisc)
-[AMES]()
-[Training Grounds]()
-[Class Swag]()
-[Resources]()
+[Animation Website](https://sites.google.com/view/anisisc) &nbsp;&nbsp;
+[AMES]() &nbsp;&nbsp;
+[Training Grounds]() &nbsp;&nbsp;
+[Class Swag]() &nbsp;&nbsp;
+[Resources]() &nbsp;&nbsp;
