@@ -18,7 +18,7 @@ This organization is the home page for the Video Game Design class at Sno-Isle T
 ## Postings
 
 [Job Board]() &nbsp;&nbsp;
-[Scholarships](https://sc.mukilteoschools.org/52453_2) &nbsp;&nbsp;
+[Scholarships](https://washboard.wsac.wa.gov/login.aspx) &nbsp;&nbsp;
 [Game Jams](https://itch.io/jams/upcoming) &nbsp;&nbsp;
 
 ## Miscellaneous
