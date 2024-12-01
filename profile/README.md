@@ -17,7 +17,7 @@ This organization is the home page for the Video Game Design class at Sno-Isle T
 
 ## Postings
 
-[Job Board]() &nbsp;&nbsp;
+[Job Board](https://seeker.worksourcewa.com/dashboard.aspx) &nbsp;&nbsp;
 [Scholarships](https://washboard.wsac.wa.gov/login.aspx) &nbsp;&nbsp;
 [Game Jams](https://itch.io/jams/upcoming) &nbsp;&nbsp;
 
