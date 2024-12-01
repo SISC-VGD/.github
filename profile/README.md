@@ -28,4 +28,4 @@ This organization is the home page for the Video Game Design class at Sno-Isle T
 [AMES Site](https://ames.team) &nbsp;&nbsp;
 [Training Grounds](https://www.clover.com/online-ordering/snoisle-tech-skills-everett) &nbsp;&nbsp;
 [Class Swag](https://streamline-llc.net/sno-isle_tech/shop) &nbsp;&nbsp;
-[Career Guide](https://entrylevel.games/) &nbsp;&nbsp;
+[Career Guide](https://entrylevel.games/) &nbsp;&nbsp; [Safety](https://www.osha.gov/etools/computer-workstations) &nbsp;&nbsp;
