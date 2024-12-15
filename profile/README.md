@@ -12,7 +12,7 @@ This organization is the home page for the Video Game Design class at Sno-Isle T
 
 ## Student Info
 
-[Schoology]()
+[Schoology](https://mukilteo.schoology.com/course/7458196187/) &nbsp;&nbsp;
 [Grades](https://www.q.wa-k12.net/mukilt) &nbsp;&nbsp;
 [Mukilteo Email](https://outlook.office365.com) &nbsp;&nbsp;
 [College Credit](https://www.pnwcollegecredit.org/students/) &nbsp;&nbsp;
