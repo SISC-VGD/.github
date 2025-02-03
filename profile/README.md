@@ -4,7 +4,7 @@ This organization is the home page for the Video Game Design class at Sno-Isle T
 
 ## Course Docs
 
-[Schoology](https://mukilteo.schoology.com/course/7458196187/) &nbsp;&nbsp;
+[Schoology](https://mukilteo.schoology.com/course/7458196203/) &nbsp;&nbsp;
 [Daily Slide](https://docs.google.com/presentation/d/1DDvkKHkrs3yts2DFJkS8juXZNSgTye5r6uXCQNcP1Kg/present) &nbsp;&nbsp;
 [Calendar](https://calendar.online/caf9a81b49f2afbbb76c) &nbsp;&nbsp;
 [Textbook](https://sites.google.com/view/learndev) &nbsp;&nbsp;
