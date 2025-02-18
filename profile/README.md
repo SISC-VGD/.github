@@ -29,6 +29,6 @@ This organization is the home page for the Video Game Design class at Sno-Isle T
 
 [Animation Site](https://sites.google.com/view/anisisc) &nbsp;&nbsp;
 [AMES Site](https://ames.team) &nbsp;&nbsp;
-[Food Order](https://www.clover.com/online-ordering/snoisle-tech-skills-everett) &nbsp;&nbsp;
+[Food Order](https://www.traininggroundscafe.com/) &nbsp;&nbsp;
 [Class Swag](https://streamline-llc.net/SnoisleTech/shop/products/all?page=1) &nbsp;&nbsp;
 [Career Guide](https://entrylevel.games/) &nbsp;&nbsp;
