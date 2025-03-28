@@ -32,5 +32,5 @@ This organization is the home page for the Video Game Design class at Sno-Isle T
 [Food Order](https://www.traininggroundscafe.com/) &nbsp;&nbsp;
 [Class Swag](https://streamline-llc.net/SnoisleTech/shop/products/all?page=1) &nbsp;&nbsp;
 [Career Guide](https://entrylevel.games/) &nbsp;&nbsp;
-[Song Request]([https://forms.gle/7iFWFCk6QMYobkpo7](https://forms.gle/8PRmX1kZ9fWM1Zm9A)) &nbsp;&nbsp;
+[Song Request](https://forms.gle/8PRmX1kZ9fWM1Zm9A) &nbsp;&nbsp;
 [Letter Request](https://forms.gle/7iFWFCk6QMYobkpo7) &nbsp;&nbsp;
