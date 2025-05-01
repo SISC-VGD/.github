@@ -12,7 +12,7 @@ This organization is the home page for the Video Game Design class at Sno-Isle T
 [Itch.io](https://sisc-vgdani.itch.io/) &nbsp;&nbsp;
 [Project Setup](https://trello.com/b/C8Kme51L/project-board-template) &nbsp;&nbsp;
 
-## Student Info
+## Class Info
 
 [Schoology](https://mukilteo.schoology.com/course/7458196203/) &nbsp;&nbsp;
 [Grades](https://www.q.wa-k12.net/mukilt) &nbsp;&nbsp;
