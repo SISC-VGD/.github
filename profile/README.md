@@ -17,12 +17,9 @@ This organization is the home page for the Video Game Design class at Sno-Isle T
 [Schoology](https://mukilteo.schoology.com/course/7458196203/) &nbsp;&nbsp;
 [Grades](https://www.q.wa-k12.net/mukilt) &nbsp;&nbsp;
 [Mukilteo Email](https://outlook.office365.com) &nbsp;&nbsp;
-[College Credit](https://www.pnwcollegecredit.org/students/) &nbsp;&nbsp;
 
 ## Postings
 
-[Job Board](https://seeker.worksourcewa.com/dashboard.aspx) &nbsp;&nbsp;
-[Scholarships](https://washboard.wsac.wa.gov/login.aspx) &nbsp;&nbsp;
 [Game Jams](https://itch.io/jams/upcoming) &nbsp;&nbsp;
 [Hackathons](https://devpost.com/hackathons) &nbsp;&nbsp;
 
@@ -31,7 +28,6 @@ This organization is the home page for the Video Game Design class at Sno-Isle T
 [Animation Site](https://sites.google.com/view/anisisc) &nbsp;&nbsp;
 [AMES Site](https://ames.team) &nbsp;&nbsp;
 [Food Order](https://www.traininggroundscafe.com/) &nbsp;&nbsp;
-[Class Swag](https://streamline-llc.net/SnoisleTech/shop/products/all?page=1) &nbsp;&nbsp;
-[Career Guide](https://entrylevel.games/) &nbsp;&nbsp;
+[Class Merch](https://streamline-llc.net/SnoisleTech/shop/products/all?page=1) &nbsp;&nbsp;
 [Song Request](https://forms.gle/8PRmX1kZ9fWM1Zm9A) &nbsp;&nbsp;
-[Letter Request](https://forms.gle/7iFWFCk6QMYobkpo7) &nbsp;&nbsp;
+[Recommendation Request](https://forms.gle/7iFWFCk6QMYobkpo7) &nbsp;&nbsp;
