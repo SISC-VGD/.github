@@ -18,11 +18,14 @@ This organization is the home page for the Video Game Design class at Sno-Isle T
 [Grades](https://www.q.wa-k12.net/mukilt) &nbsp;&nbsp;
 [Mukilteo Email](https://outlook.office365.com) &nbsp;&nbsp;
 
-## Miscellaneous
+## Partner Websites
 
 [Sno-Isle Site](https://sc.mukilteoschools.org/) &nbsp;&nbsp;
 [Animation Site](https://sites.google.com/view/anisisc) &nbsp;&nbsp;
 [AMES Site](https://ames.team) &nbsp;&nbsp;
+
+## Miscellaneous
+
 [Food Order](https://www.traininggroundscafe.com/) &nbsp;&nbsp;
 [Class Merch](https://streamline-llc.net/SnoisleTech/shop/products/all?page=1) &nbsp;&nbsp;
 [2nd-Year Application](https://forms.gle/Db4xkQjYqPwRuLuY6) &nbsp;&nbsp;
