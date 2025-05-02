@@ -20,6 +20,7 @@ This organization is the home page for the Video Game Design class at Sno-Isle T
 
 ## Miscellaneous
 
+[Sno-Isle Site](https://sc.mukilteoschools.org/) &nbsp;&nbsp;
 [Animation Site](https://sites.google.com/view/anisisc) &nbsp;&nbsp;
 [AMES Site](https://ames.team) &nbsp;&nbsp;
 [Food Order](https://www.traininggroundscafe.com/) &nbsp;&nbsp;
