@@ -23,7 +23,7 @@ This organization is the home page for the Video Game Design class at Sno-Isle T
 [2nd-Year Application](https://forms.gle/Db4xkQjYqPwRuLuY6) &nbsp;&nbsp;
 [Letter of Recommendation](https://forms.gle/7iFWFCk6QMYobkpo7) &nbsp;&nbsp;
 [Technology Ticket](https://forms.gle/su8K2ueb4n3CXCRE9) &nbsp;&nbsp;
-[Friday Song Request](https://forms.gle/8PRmX1kZ9fWM1Zm9A) &nbsp;&nbsp;
+[Friday Music](https://forms.gle/8PRmX1kZ9fWM1Zm9A) &nbsp;&nbsp;
 
 ## Miscellaneous
 
