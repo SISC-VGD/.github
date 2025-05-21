@@ -14,7 +14,7 @@ This organization is the home page for the Video Game Design class at Sno-Isle T
 
 ## Class Info
 
-[Curriculum](https://sites.google.com/mukilteo.wednet.edu/vgd-curriculum/math/) &nbsp;&nbsp;
+[Curriculum](https://sites.google.com/mukilteo.wednet.edu/vgd-curriculum/) &nbsp;&nbsp;
 [Schoology](https://mukilteo.schoology.com/course/7458196203/) &nbsp;&nbsp;
 [Grades](https://www.q.wa-k12.net/mukilt) &nbsp;&nbsp;
 [Mukilteo Email](https://outlook.office365.com) &nbsp;&nbsp;
