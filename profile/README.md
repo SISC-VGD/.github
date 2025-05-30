@@ -21,12 +21,7 @@ This organization is the home page for the Video Game Design class at Sno-Isle T
 
 ## Forms
 
-[Project Request](https://forms.gle/T869BobBsgxWVNRZ8) &nbsp;&nbsp;
-[2nd-Year Application](https://forms.gle/Db4xkQjYqPwRuLuY6) &nbsp;&nbsp;
-[Letter of Recommendation](https://forms.gle/7iFWFCk6QMYobkpo7) &nbsp;&nbsp;
-[Technology Ticket](https://forms.gle/su8K2ueb4n3CXCRE9) &nbsp;&nbsp;
-[Song Request](https://forms.gle/8PRmX1kZ9fWM1Zm9A) &nbsp;&nbsp;
-[Interview Activities](https://forms.gle/MATwp3XGQhmYjydbA) &nbsp;&nbsp;
+All forms have been moved to [this page](https://github.com/orgs/SISC-VGD/discussions/34) &nbsp;&nbsp;
 
 ## Miscellaneous
 
