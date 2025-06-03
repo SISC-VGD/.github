@@ -6,7 +6,7 @@ This organization is the home page for the Video Game Design class at Sno-Isle T
 
 [About](https://docs.google.com/presentation/d/10cEEIoGtyuRp5AaoehJVe1y-yM_sZiTGANGbESeS9aQ/edit?usp=sharing) &nbsp;&nbsp;
 [Daily Slide](https://docs.google.com/presentation/d/1DDvkKHkrs3yts2DFJkS8juXZNSgTye5r6uXCQNcP1Kg/present) &nbsp;&nbsp;
-[Calendar](https://calendar.google.com/calendar/embed?src=c_6d8f5b4381ebed3c8a2e40f4c77c50fd8b2c46522517ac0e40e22e87cbfce90c%40group.calendar.google.com&ctz=America%2FLos_Angeles) &nbsp;&nbsp;
+[Calendar](https://calendar.google.com/calendar/embed?src=3c4c4e17b814087b7fe2c3f7d3541ae21e0146d51f795a0b5f65539068c07e54%40group.calendar.google.com&ctz=America%2FLos_Angeles) &nbsp;&nbsp;
 [ZOOM](https://mukilteoschools-org.zoom.us/j/4158979566?pwd=TEhJZE1HUFVueEtuU0JYUWpuT3ZnUT09) &nbsp;&nbsp;
 [Itch.io](https://sisc-vgdani.itch.io/) &nbsp;&nbsp;
 [Project Setup](https://trello.com/b/C8Kme51L/project-board-template) &nbsp;&nbsp;
