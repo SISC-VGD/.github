@@ -19,10 +19,6 @@ This organization is the home page for the Video Game Design class at Sno-Isle T
 [Grades](https://www.q.wa-k12.net/mukilt) &nbsp;&nbsp;
 [Mukilteo Email](https://outlook.office365.com) &nbsp;&nbsp;
 
-## Forms
-
-All forms have been moved to [this page](https://github.com/orgs/SISC-VGD/discussions/34) &nbsp;&nbsp;
-
 ## Miscellaneous
 
 [Sno-Isle Site](https://sc.mukilteoschools.org/) &nbsp;&nbsp;
