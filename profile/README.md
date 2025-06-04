@@ -5,7 +5,7 @@ This organization is the home page for the Video Game Design class at Sno-Isle T
 ## Daily Docs
 
 [Curriculum](https://sites.google.com/mukilteo.wednet.edu/vgd-curriculum/) &nbsp;&nbsp;
-[Daily Slide](https://docs.google.com/presentation/d/1DDvkKHkrs3yts2DFJkS8juXZNSgTye5r6uXCQNcP1Kg/present) &nbsp;&nbsp;
+[Daily Tasks](https://classroomscreen.com/app/p/a8bab59e-4d9d-4679-95b7-091b1643eeb8/0) &nbsp;&nbsp;
 [Calendar](https://calendar.google.com/calendar/embed?src=3c4c4e17b814087b7fe2c3f7d3541ae21e0146d51f795a0b5f65539068c07e54%40group.calendar.google.com&ctz=America%2FLos_Angeles) &nbsp;&nbsp;
 [Schoology](https://mukilteo.schoology.com/home/) &nbsp;&nbsp;
 [ZOOM](https://mukilteoschools-org.zoom.us/j/4158979566?pwd=TEhJZE1HUFVueEtuU0JYUWpuT3ZnUT09) &nbsp;&nbsp;
@@ -25,4 +25,4 @@ This organization is the home page for the Video Game Design class at Sno-Isle T
 [AMES Site](https://ames.team) &nbsp;&nbsp;
 [Food Order](https://www.traininggroundscafe.com/) &nbsp;&nbsp;
 [Class Merch](https://streamline-llc.net/SnoisleTech/shop/products/all?page=1) &nbsp;&nbsp;
-[Qmlativ Grades](https://www.q.wa-k12.net/mukilt) &nbsp;&nbsp;
+[Qmlativ Grade](https://www.q.wa-k12.net/mukilt) &nbsp;&nbsp;
