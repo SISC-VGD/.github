@@ -1,6 +1,6 @@
 # Welcome to Video Game Design!
 
-This organization is the home page for the Video Game Design class at Sno-Isle TECH Skills Center. It contains links to class materials, templates for different project types, and more! Below are links to quickly access certain websites. If you'd like to see more resources and announcements, click the "Discussions" tab at the top of the page.
+This organization is the home page for the Video Game Design class at Sno-Isle TECH Skills Center. It contains links to class materials, templates for different project types, and more! Below are links to quickly access certain websites. If you'd like to see more resources and announcements, click the "Discussions" tab at the top of the page. To learn more about this class, click [here](https://docs.google.com/presentation/d/10cEEIoGtyuRp5AaoehJVe1y-yM_sZiTGANGbESeS9aQ/edit?usp=sharing).
 
 ## Daily Docs
 
@@ -12,7 +12,6 @@ This organization is the home page for the Video Game Design class at Sno-Isle T
 
 ## Other Docs
 
-[About](https://docs.google.com/presentation/d/10cEEIoGtyuRp5AaoehJVe1y-yM_sZiTGANGbESeS9aQ/edit?usp=sharing) &nbsp;&nbsp;
 [Itch.io](https://sisc-vgdani.itch.io/) &nbsp;&nbsp;
 [Project Setup](https://trello.com/b/C8Kme51L/project-board-template) &nbsp;&nbsp;
 [Materials](https://drive.google.com/drive/folders/12V3AuKpwl9pa0SUP9Pkd7tmAtAn6TgMJ?usp=drive_link) &nbsp;&nbsp;
