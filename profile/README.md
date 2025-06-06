@@ -13,7 +13,6 @@ This organization is the home page for the Video Game Design class at Sno-Isle T
 ## Other Docs
 
 [Itch.io](https://sisc-vgdani.itch.io/) &nbsp;&nbsp;
-[Project Setup](https://trello.com/b/C8Kme51L/project-board-template) &nbsp;&nbsp;
 [Materials](https://drive.google.com/drive/folders/12V3AuKpwl9pa0SUP9Pkd7tmAtAn6TgMJ?usp=drive_link) &nbsp;&nbsp;
 [ZOOM](https://mukilteoschools-org.zoom.us/j/4158979566?pwd=TEhJZE1HUFVueEtuU0JYUWpuT3ZnUT09) &nbsp;&nbsp;
 
