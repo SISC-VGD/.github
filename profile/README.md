@@ -10,7 +10,6 @@ This organization is the home page for the Video Game Design class at Sno-Isle T
 [Email](https://outlook.office365.com) &nbsp;&nbsp;
 [Videos](https://www.youtube.com/@SISCVideoGameDesign) &nbsp;&nbsp;
 [Materials](https://drive.google.com/drive/folders/12V3AuKpwl9pa0SUP9Pkd7tmAtAn6TgMJ?usp=drive_link) &nbsp;&nbsp;
-[ZOOM](https://mukilteoschools-org.zoom.us/j/4158979566?pwd=TEhJZE1HUFVueEtuU0JYUWpuT3ZnUT09) &nbsp;&nbsp;
 [Itch.io](https://sisc-vgdani.itch.io/) &nbsp;&nbsp;
 
 ## Miscellaneous
