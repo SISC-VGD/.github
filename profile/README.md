@@ -15,6 +15,7 @@ This organization is the home page for the Video Game Design class at Sno-Isle T
 
 ## Miscellaneous
 
+[Returning Application](https://scmukilteoschools.fsenrollment.com/users/sign_in) &nbsp;&nbsp;
 [Sno-Isle Site](https://sc.mukilteoschools.org/) &nbsp;&nbsp;
 [Animation Site](https://sites.google.com/view/anisisc) &nbsp;&nbsp;
 [AMES Site](https://ames.team) &nbsp;&nbsp;
@@ -28,5 +29,4 @@ This organization is the home page for the Video Game Design class at Sno-Isle T
 [Offboarding](https://forms.gle/CgKAjFZGZK6qaHu28) &nbsp;&nbsp;
 [Ticket](https://forms.gle/hvqNCfDRHKVtB8Tt5) &nbsp;&nbsp;
 [Letter of Recommendation](https://forms.gle/9cCyRS9xUwEgjrYw8) &nbsp;&nbsp;
-[2nd-Year Application](https://forms.gle/xqsRrwSLVA6PRHmF8) &nbsp;&nbsp;
 [Interviews](https://forms.gle/7MtvfGy6sWx4Hffj8) &nbsp;&nbsp;
