@@ -6,13 +6,21 @@ This organization is the home page for the Video Game Design class at Sno-Isle T
 
 [Curriculum](https://mukilteo.schoology.com/home/) &nbsp;&nbsp;
 [Grades](https://www.q.wa-k12.net/mukilt) &nbsp;&nbsp;
-[Materials](https://drive.google.com/drive/folders/12V3AuKpwl9pa0SUP9Pkd7tmAtAn6TgMJ?usp=drive_link) &nbsp;&nbsp;
-[Videos](https://www.youtube.com/@SISCVideoGameDesign) &nbsp;&nbsp;
 [Calendar](https://calendar.google.com/calendar/embed?src=3c4c4e17b814087b7fe2c3f7d3541ae21e0146d51f795a0b5f65539068c07e54%40group.calendar.google.com&ctz=America%2FLos_Angeles) &nbsp;&nbsp;
 [Daily Screens](https://classroomscreen.com/app/p/73a96a5d-84ce-4128-ab32-889ceea07eda/0) &nbsp;&nbsp;
-[Email](https://outlook.office365.com) &nbsp;&nbsp;
+[School Email](https://outlook.office365.com) &nbsp;&nbsp;
 [Itch.io](https://sisc-vgdani.itch.io/) &nbsp;&nbsp;
+
+
+
+## Resources
+
+[Videos](https://www.youtube.com/@SISCVideoGameDesign) &nbsp;&nbsp;
+[Materials](https://drive.google.com/drive/folders/12V3AuKpwl9pa0SUP9Pkd7tmAtAn6TgMJ?usp=drive_link) &nbsp;&nbsp;
 [Announcements](https://github.com/orgs/SISC-VGD/discussions/categories/announcements) &nbsp;&nbsp;
+[Software Resources](https://github.com/orgs/SISC-VGD/discussions/1) &nbsp;&nbsp;
+[Study Resources](https://github.com/orgs/SISC-VGD/discussions/38) &nbsp;&nbsp;
+[Post-Secondary Resources](https://github.com/orgs/SISC-VGD/discussions/8) &nbsp;&nbsp;
 
 
 
@@ -46,11 +54,3 @@ This organization is the home page for the Video Game Design class at Sno-Isle T
 [Offboarding](https://forms.gle/CgKAjFZGZK6qaHu28) &nbsp;&nbsp;
 [Ticket](https://forms.gle/hvqNCfDRHKVtB8Tt5) &nbsp;&nbsp;
 [Letter of Recommendation](https://forms.gle/9cCyRS9xUwEgjrYw8) &nbsp;&nbsp;
-
-
-
-## Resources
-
-[Software Resources](https://github.com/orgs/SISC-VGD/discussions/1) &nbsp;&nbsp;
-[Study Resources](https://github.com/orgs/SISC-VGD/discussions/38) &nbsp;&nbsp;
-[Post-Secondary Resources](https://github.com/orgs/SISC-VGD/discussions/8) &nbsp;&nbsp;
