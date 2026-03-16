@@ -27,15 +27,20 @@ This organization is the home page for the Video Game Design class at Sno-Isle T
 
 
 
-## Forms
+## Project Forms
+
+[Team Input](https://forms.gle/tAq8cXF5NU3pDy8FA) &nbsp;&nbsp;
+[Kickoff](https://forms.gle/jgsyciY8rAWwQ3SaA) &nbsp;&nbsp;
+[Teammate Concern](https://forms.gle/MERSYmhs8W56LGqS9) &nbsp;&nbsp;
+[Post-Mortem](https://forms.gle/b7H92McKoe1cw81w7) &nbsp;&nbsp;
+[Review](https://forms.gle/keEqu2MqgtUMSTiVA) &nbsp;&nbsp;
+[Read All Reviews](https://docs.google.com/spreadsheets/d/1JMuhKi5LpFEk8hRABRT7DcjE3cOycGHMvAd222QF6aY/edit?usp=sharing) &nbsp;&nbsp;
+
+
+
+## Other Forms
 
 [Skill Submission](https://forms.gle/6LEc8BR3XjiNDAeJ7) &nbsp;&nbsp;
-[Team Input](https://forms.gle/tAq8cXF5NU3pDy8FA) &nbsp;&nbsp;
-[Teammate Concern](https://forms.gle/MERSYmhs8W56LGqS9) &nbsp;&nbsp;
-[Project Kickoff](https://forms.gle/jgsyciY8rAWwQ3SaA) &nbsp;&nbsp;
-[Project Post-Mortem](https://forms.gle/b7H92McKoe1cw81w7) &nbsp;&nbsp;
-[Project Review](https://forms.gle/keEqu2MqgtUMSTiVA) &nbsp;&nbsp;
-[Project Reviews](https://docs.google.com/spreadsheets/d/1JMuhKi5LpFEk8hRABRT7DcjE3cOycGHMvAd222QF6aY/edit?usp=sharing) &nbsp;&nbsp;
 [Professionalism](https://forms.gle/fCJi7SSr3H8MvZCG8) &nbsp;&nbsp;
 [Onboarding](https://forms.gle/uv7NZoEeyE9qtGFS6) &nbsp;&nbsp;
 [Offboarding](https://forms.gle/CgKAjFZGZK6qaHu28) &nbsp;&nbsp;
