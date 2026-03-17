@@ -2,6 +2,8 @@
 
 This organization is the home page for the Video Game Design class at Sno-Isle TECH Skills Center. It contains links to class materials, templates for different project types, and more! Below are links to quickly access certain websites. If you'd like to see more resources and announcements, click the "Discussions" tab at the top of the page. To learn more about this class, click [here](https://docs.google.com/presentation/d/e/2PACX-1vTolt9URY-F9EcztJ-dUWanNjiyod-wqKaOPv90rZugUE1-vs8Za1NZom4-UgX9hHHwNBGAP-ggtIUH/pub?start=false&loop=false&delayms=60000).
 
+
+
 ## Class Docs
 
 [Curriculum](https://mukilteo.schoology.com/home/) &nbsp;&nbsp;
@@ -24,17 +26,6 @@ This organization is the home page for the Video Game Design class at Sno-Isle T
 
 
 
-## Miscellaneous
-
-[Sno-Isle Application](https://scmukilteoschools.fsenrollment.com/users/sign_in) &nbsp;&nbsp;
-[Sno-Isle Website](https://sc.mukilteoschools.org/) &nbsp;&nbsp;
-[Animation Website](https://sites.google.com/view/anisisc) &nbsp;&nbsp;
-[AMES Website](https://ames.team) &nbsp;&nbsp;
-[Food Order](https://www.traininggroundscafe.com/) &nbsp;&nbsp;
-[Class Merch](https://streamline-llc.net/snoisle26/shop/home) &nbsp;&nbsp;
-
-
-
 ## Project Forms
 
 [Team Input](https://forms.gle/tAq8cXF5NU3pDy8FA) &nbsp;&nbsp;
@@ -54,3 +45,14 @@ This organization is the home page for the Video Game Design class at Sno-Isle T
 [Offboarding](https://forms.gle/CgKAjFZGZK6qaHu28) &nbsp;&nbsp;
 [Ticket](https://forms.gle/hvqNCfDRHKVtB8Tt5) &nbsp;&nbsp;
 [Letter of Recommendation](https://forms.gle/9cCyRS9xUwEgjrYw8) &nbsp;&nbsp;
+
+
+
+## Miscellaneous
+
+[Sno-Isle Application](https://scmukilteoschools.fsenrollment.com/users/sign_in) &nbsp;&nbsp;
+[Sno-Isle Website](https://sc.mukilteoschools.org/) &nbsp;&nbsp;
+[Animation Website](https://sites.google.com/view/anisisc) &nbsp;&nbsp;
+[AMES Website](https://ames.team) &nbsp;&nbsp;
+[Food Order](https://www.traininggroundscafe.com/) &nbsp;&nbsp;
+[Class Merch](https://streamline-llc.net/snoisle26/shop/home) &nbsp;&nbsp;
