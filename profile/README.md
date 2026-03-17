@@ -20,9 +20,9 @@ This organization is the home page for the Video Game Design class at Sno-Isle T
 
 [Videos](https://www.youtube.com/@SISCVideoGameDesign) &nbsp;&nbsp;
 [Materials](https://drive.google.com/drive/folders/12V3AuKpwl9pa0SUP9Pkd7tmAtAn6TgMJ?usp=drive_link) &nbsp;&nbsp;
-[Software Resources](https://github.com/orgs/SISC-VGD/discussions/1) &nbsp;&nbsp;
-[Study Resources](https://github.com/orgs/SISC-VGD/discussions/38) &nbsp;&nbsp;
-[Post-Secondary Resources](https://github.com/orgs/SISC-VGD/discussions/8) &nbsp;&nbsp;
+[Software & Websites](https://github.com/orgs/SISC-VGD/discussions/1) &nbsp;&nbsp;
+[Study Materials](https://github.com/orgs/SISC-VGD/discussions/38) &nbsp;&nbsp;
+[College & Career Resources](https://github.com/orgs/SISC-VGD/discussions/8) &nbsp;&nbsp;
 
 
 
