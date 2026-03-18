@@ -34,7 +34,7 @@
 <summary>Project Forms</summary>
 
 - [Team Input](https://forms.gle/tAq8cXF5NU3pDy8FA): Give the instructor feedback on who you do and don't want to work with
-- [Kickoff](https://forms.gle/jgsyciY8rAWwQ3SaA): 
+- [Kickoff](https://forms.gle/jgsyciY8rAWwQ3SaA): Complete steps to ensure a successful project launch
 - [Teammate Concern](https://forms.gle/MERSYmhs8W56LGqS9): Let the instructor know when your team is struggling
 - [Post-Mortem](https://forms.gle/b7H92McKoe1cw81w7): Self-reflect on a project after it's done
 - [Give Review](https://forms.gle/keEqu2MqgtUMSTiVA): Give reviews to other projects after they're done
