@@ -396,6 +396,10 @@
 
 </details>
 
+
+
+<details>
+
 <summary>Project Forms</summary>
 
 - [Team Input](https://forms.gle/tAq8cXF5NU3pDy8FA): Give the instructor feedback on who you do and don't want to work with
