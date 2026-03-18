@@ -351,7 +351,9 @@
 
 <summary>College & Career Resources</summary>
 
-## College Resources
+<details>
+
+<summary>College</summary>
 
 - [FAFSA](https://studentaid.gov/h/apply-for-aid/fafsa): Apply for the FAFSA to get money taken off your tuition
 - [WAFSA](https://wsac.wa.gov/wasfa): Apply for the WAFSA if you do not or can not apply for the FAFSA
@@ -361,18 +363,26 @@
 - [Local Scholarships](https://sc.mukilteoschools.org/52453_2/): Browse local scholarships
 - [Community and Technical Colleges](https://www.sbctc.edu/our-colleges/explore-colleges/): Learn about the various colleges where you can continue learning computer science
 
+</details>
 
 
-## Job Resources
+
+</details>
+
+<summary>Career</summary>
 
 - [LinkedIn](https://www.linkedin.com/): Browse jobs and make connections all around the world
 - [Indeed](https://www.indeed.com/): Browse jobs and easily apply for them
 - [Into Games](https://intogames.org/): View resources and learn more about the game industry
 - [WorkSource](https://seeker.worksourcewa.com/): Browse the state job board
 
+</details>
 
 
-## Miscellaneous Resources
+
+</details>
+
+<summary>Miscellaneous</summary>
 
 - [Seattle Indies](https://www.seattleindies.org/): A local nonprofit organization connecting Puget Sound-based game developers
 - [International Game Developers Association](https://igda.org/): An international nonprofit organization helping connect game developers around the world
@@ -381,6 +391,8 @@
 - [Hackathons](https://devpost.com/hackathons): Join hackathons around the world and win prizes
 - [PAX West Booth Application](https://west.paxsite.com/en-us/get-involved.html): Submit a game to be exhibited at PAX West
 - [SIX Booth Application](https://six.seattleindies.org/apply/): Submit a game to be exhibited at SIX
+
+</details>
 
 </details>
 
