@@ -1,7 +1,6 @@
 <details open>
 
-<summary>Class Docs</summary>
-<br />
+<summary><h2>Class Docs</h2></summary>
 
 - [About](https://docs.google.com/presentation/d/e/2PACX-1vTolt9URY-F9EcztJ-dUWanNjiyod-wqKaOPv90rZugUE1-vs8Za1NZom4-UgX9hHHwNBGAP-ggtIUH/pub?start=false&loop=false&delayms=60000): Learn all about this class
 - [Curriculum](https://mukilteo.schoology.com/home/): Follow the curriculum for all skills
@@ -15,31 +14,25 @@
 
 </details>
 
----
-
 <details>
 
-<summary>Project Forms</summary>
-<br />
+<summary><h2>Project Forms</h2></summary>
 
 - [Team Input](https://forms.gle/tAq8cXF5NU3pDy8FA): Give the instructor feedback on who you do and don't want to work with
 - [Kickoff](https://forms.gle/jgsyciY8rAWwQ3SaA): Complete steps to ensure a successful project launch
 - [Teammate Concern](https://forms.gle/MERSYmhs8W56LGqS9): Let the instructor know when your team is struggling
 - [Post-Mortem](https://forms.gle/b7H92McKoe1cw81w7): Self-reflect on a project after it's done
+- [Professionalism](https://forms.gle/fCJi7SSr3H8MvZCG8): Review you and your teammates' professionalism after the project is done
 - [Give Review](https://forms.gle/keEqu2MqgtUMSTiVA): Give reviews to other projects after they're done
 - [Read Reviews](https://docs.google.com/spreadsheets/d/1JMuhKi5LpFEk8hRABRT7DcjE3cOycGHMvAd222QF6aY/edit?usp=sharing): Read all the reviews that have been submitted this year
 
 </details>
 
----
-
 <details>
 
-<summary>Other Forms</summary>
-<br />
+<summary><h2>Other Forms</h2></summary>
 
 - [Skill Submission](https://forms.gle/6LEc8BR3XjiNDAeJ7): Get graded for skills you've completed in class
-- [Professionalism](https://forms.gle/fCJi7SSr3H8MvZCG8): Review you and your teammates' professionalism skills
 - [Onboarding](https://forms.gle/uv7NZoEeyE9qtGFS6): Get ready to start this class
 - [Offboarding](https://forms.gle/CgKAjFZGZK6qaHu28): Get ready to leave this class
 - [Ticket](https://forms.gle/hvqNCfDRHKVtB8Tt5): Let the instructor know when you're having technology issues
@@ -47,12 +40,9 @@
 
 </details>
 
----
-
 <details>
 
-<summary>Applications & Software</summary>
-<br />
+<summary><h2>Applications & Software</h2></summary>
 
 <details>
 
@@ -289,12 +279,9 @@
 
 </details>
 
----
-
 <details>
 
-<summary>Study Materials</summary>
-<br />
+<summary><h2>Study Materials</h2></summary>
 
 [Videos](https://www.youtube.com/@SISCVideoGameDesign): Follow tutorials for implementing specific game mechanics
 
@@ -438,12 +425,9 @@
 
 </details>
 
----
-
 <details>
 
-<summary>College Resources</summary>
-<br />
+<summary><h2>College Resources</h2></summary>
 
 - [FAFSA](https://studentaid.gov/h/apply-for-aid/fafsa): Apply for the FAFSA to get money taken off your tuition
 - [WAFSA](https://wsac.wa.gov/wasfa): Apply for the WAFSA if you do not or can not apply for the FAFSA
@@ -455,12 +439,9 @@
 
 </details>
 
----
-
 <details>
 
-<summary>Career Resources</summary>
-<br />
+<summary><h2>Career Resources</h2></summary>
 
 - [Seattle Indies](https://www.seattleindies.org/): A local nonprofit organization connecting Puget Sound-based game developers
 - [International Game Developers Association](https://igda.org/): An international nonprofit organization connecting game developers around the world
@@ -476,12 +457,9 @@
 
 </details>
 
----
-
 <details>
 
-<summary>Miscellaneous Websites</summary>
-<br />
+<summary><h2>Miscellaneous Websites</h2></summary>
 
 - [Sno-Isle Application](https://scmukilteoschools.fsenrollment.com/users/sign_in): Apply for this class and others for next school year
 - [Sno-Isle Website](https://sc.mukilteoschools.org/): Visit the official Sno-Isle website
