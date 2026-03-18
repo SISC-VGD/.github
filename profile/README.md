@@ -320,7 +320,7 @@
 
 <details>
 
-<summary>Study & Research</summary>
+<summary>Study Materials</summary>
 <br />
 
 <details>
