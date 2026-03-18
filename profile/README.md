@@ -1,6 +1,6 @@
 <details>
 
-<summary> ## Class Docs</summary>
+<summary>Class Docs</summary>
 
 [About](https://docs.google.com/presentation/d/e/2PACX-1vTolt9URY-F9EcztJ-dUWanNjiyod-wqKaOPv90rZugUE1-vs8Za1NZom4-UgX9hHHwNBGAP-ggtIUH/pub?start=false&loop=false&delayms=60000) &nbsp;&nbsp;
 [Curriculum](https://mukilteo.schoology.com/home/) &nbsp;&nbsp;
