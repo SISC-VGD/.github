@@ -15,7 +15,9 @@
 
 
 
-## Resources
+<details>
+
+<summary>Resources</summary>
 
 [Videos](https://www.youtube.com/@SISCVideoGameDesign) &nbsp;&nbsp;
 [Class Materials](https://drive.google.com/drive/folders/12V3AuKpwl9pa0SUP9Pkd7tmAtAn6TgMJ?usp=drive_link) &nbsp;&nbsp;
@@ -23,9 +25,13 @@
 [Study Materials](https://github.com/orgs/SISC-VGD/discussions/38) &nbsp;&nbsp;
 [College & Career Resources](https://github.com/orgs/SISC-VGD/discussions/8) &nbsp;&nbsp;
 
+</details>
 
 
-## Project Forms
+
+<details>
+
+<summary>Project Forms</summary>
 
 [Team Input](https://forms.gle/tAq8cXF5NU3pDy8FA) &nbsp;&nbsp;
 [Kickoff](https://forms.gle/jgsyciY8rAWwQ3SaA) &nbsp;&nbsp;
@@ -34,9 +40,13 @@
 [Review](https://forms.gle/keEqu2MqgtUMSTiVA) &nbsp;&nbsp;
 [Read All Reviews](https://docs.google.com/spreadsheets/d/1JMuhKi5LpFEk8hRABRT7DcjE3cOycGHMvAd222QF6aY/edit?usp=sharing) &nbsp;&nbsp;
 
+</details>
 
 
-## Other Forms
+
+<details>
+
+<summary>Other Forms</summary>
 
 [Skill Submission](https://forms.gle/6LEc8BR3XjiNDAeJ7) &nbsp;&nbsp;
 [Professionalism](https://forms.gle/fCJi7SSr3H8MvZCG8) &nbsp;&nbsp;
@@ -45,13 +55,19 @@
 [Ticket](https://forms.gle/hvqNCfDRHKVtB8Tt5) &nbsp;&nbsp;
 [Letter of Recommendation](https://forms.gle/9cCyRS9xUwEgjrYw8) &nbsp;&nbsp;
 
+</details>
 
 
-## Miscellaneous
+
+<details>
+
+<summary>Miscellaneous</summary>
 
 [Sno-Isle Application](https://scmukilteoschools.fsenrollment.com/users/sign_in) &nbsp;&nbsp;
 [Sno-Isle Website](https://sc.mukilteoschools.org/) &nbsp;&nbsp;
 [Animation Website](https://sites.google.com/view/anisisc) &nbsp;&nbsp;
 [AMES Website](https://ames.team) &nbsp;&nbsp;
 [Food Order](https://www.traininggroundscafe.com/) &nbsp;&nbsp;
-[Class Merch](https://streamline-llc.net/snoisle26/shop/home) &nbsp;&nbsp;
+[Class Merch](https://streamline-llc.net/snoisle26/shop/home) &nbsp;&nbsp;&nbsp;&nbsp;
+
+</details>
