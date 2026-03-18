@@ -5,24 +5,13 @@
 
 - [About](https://docs.google.com/presentation/d/e/2PACX-1vTolt9URY-F9EcztJ-dUWanNjiyod-wqKaOPv90rZugUE1-vs8Za1NZom4-UgX9hHHwNBGAP-ggtIUH/pub?start=false&loop=false&delayms=60000): Learn all about this class
 - [Curriculum](https://mukilteo.schoology.com/home/): Follow the curriculum for all skills
-- [Grades](https://www.q.wa-k12.net/mukilt): Check your current official Skyward grade
+- [Grades](https://www.q.wa-k12.net/mukilt): Check your current Skyward grade
 - [Calendar](https://calendar.google.com/calendar/embed?src=3c4c4e17b814087b7fe2c3f7d3541ae21e0146d51f795a0b5f65539068c07e54%40group.calendar.google.com&ctz=America%2FLos_Angeles): View and save the class calendar
+- [Materials](https://drive.google.com/drive/folders/12V3AuKpwl9pa0SUP9Pkd7tmAtAn6TgMJ?usp=drive_link): View materials such as resumes, cover letters, design documents, and more
 - [School Email](https://outlook.office365.com): Send and receive school emails
 - [Itch.io](https://sisc-vgdani.itch.io/): View and play games created by the class
 - [Classroom Screens](https://classroomscreen.com/app/p/73a96a5d-84ce-4128-ab32-889ceea07eda/0): View the daily screen for today
 - [Announcements](https://github.com/orgs/SISC-VGD/discussions/categories/announcements): Read current and past announcements
-
-</details>
-
----
-
-<details>
-
-<summary>Resources</summary>
-<br />
-
-- [Videos](https://www.youtube.com/@SISCVideoGameDesign): Follow tutorials for implementing specific game mechanics
-- [Class Materials](https://drive.google.com/drive/folders/12V3AuKpwl9pa0SUP9Pkd7tmAtAn6TgMJ?usp=drive_link): View materials such as resumes, cover letters, design documents, and more
 
 </details>
 
@@ -62,7 +51,7 @@
 
 <details>
 
-<summary>Miscellaneous</summary>
+<summary>Miscellaneous Websites</summary>
 <br />
 
 - [Sno-Isle Application](https://scmukilteoschools.fsenrollment.com/users/sign_in): Apply for this class and others for next school year
@@ -322,6 +311,8 @@
 
 <summary>Study Materials</summary>
 <br />
+
+[Videos](https://www.youtube.com/@SISCVideoGameDesign): Follow tutorials for implementing specific game mechanics
 
 <details>
 
