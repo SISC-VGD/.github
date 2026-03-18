@@ -255,47 +255,69 @@
 
 <summary>Study & Materials</summary>
 
-## Safety
+<details>
+
+<summary>Safety</summary>
 
 - [OSHA Guidelines](https://www.osha.gov/etools/computer-workstations/checklists/evaluation): Learn about computer safety through the official OSHA safety guidelines
 
+</details>
 
 
-## Typing
+
+<details>
+
+<summary>Typing</summary>
 
 - [Typing.com](https://www.typing.com/): Learn typing for free
 - [TypingClub](https://www.typingclub.com/): Learn typing for free
 - [Monkeytype](https://monkeytype.com/): Practice typing randomized sentences
 - [TypeRacer](https://play.typeracer.com/): Practice typing against other people all around the world
 
+</details>
 
 
-## Game Engines
+
+<details>
+
+<summary>Game Engines</summary>
 
 - [Brackeys](https://www.youtube.com/@Brackeys/): Watch free videos to learn how to use Unity
 - [Muddy Wolf](https://www.youtube.com/@MuddyWolf): Watch free videos to learn how to use Unity
 - [Unity Learn](https://learn.unity.com/): Learn how to use Unity through official tutorials
 - [GameDev.tv](https://www.gamedev.tv/): Pay for high-quality game development courses
 
+</details>
 
 
-## Programming
+
+<details>
+
+<summary>Programming</summary>
 
 - [Programming with Mosh](https://www.youtube.com/@programmingwithmosh/): 
 - [Nick Chapsas](https://www.youtube.com/@nickchapsas/): 
 - [Codecademy](https://www.codecademy.com/): 
 - [Sololearn](https://www.sololearn.com/): 
 
+</details>
 
 
-## 2D Art
+
+<details>
+
+<summary>2D Art</summary>
 
 - [Pixel Pete](https://www.youtube.com/@PeterMilko): 
 - [Brandon James Greer](https://www.youtube.com/@BJGpixel/videos): 
 
+</details>
 
 
-## 3D Art & Animation
+
+<details>
+
+<summary>3D Art & Animation</summary>
 
 - [Joey Carlino](https://www.youtube.com/@JoeyCarlino): 
 - [Blender Guru](https://www.youtube.com/@blenderguru/): 
@@ -303,9 +325,13 @@
 - [Pantheon](https://www.youtube.com/@Pantheon3D/): 
 - [WiseFrog](https://www.youtube.com/@WiseFrog-x7l): 
 
+</details>
 
 
-## Music
+
+<details>
+
+<summary>Music</summary>
 
 - [Synthet](https://www.youtube.com/@synthet7/): 
 - [In The Mix](https://www.youtube.com/@inthemix/): 
@@ -313,9 +339,13 @@
 - [Spaces](https://www.youtube.com/@spacesdnb/): 
 - [Alex Rome](https://www.youtube.com/@AlexRome/): 
 
+</details>
 
 
-## Design
+
+<details>
+
+<summary>Music</summary>
 
 - [Game Maker's Toolkit](https://www.youtube.com/@GMTK/): 
 - [Masahiro Sakurai on Creating Games](https://www.youtube.com/@sora_sakurai_en/): 
@@ -324,9 +354,13 @@
 - [Game Developers Conference](https://www.youtube.com/@Gdconf/): 
 - [Game UI Database](https://www.gameuidatabase.com/): 
 
+</details>
 
 
-## Mathematics
+
+<details>
+
+<summary>Mathematics</summary>
 
 - [3Blue1Brown](https://youtube.com/@3blue1brown/): 
 - [Your SAT Coach](https://youtube.com/@yoursatcoach/): 
@@ -334,14 +368,20 @@
 - [Khan Academy](https://www.khanacademy.org/): 
 - [Math is Fun](https://www.mathsisfun.com/): 
 
+</details>
 
 
-## Project Management
+
+<details>
+
+<summary>Project Management</summary>
 
 - [Project Management Institute](https://www.pmi.org/learning/free-online-courses): Learn about project management for free online
 - [Scrum.org](https://www.scrum.org/courses): Learn Scrum through various paid courses
 - [Atlassian](https://www.atlassian.com/agile): Read up on Atlassian's official guide on Agile
 - [Liz England's Door Problem](https://lizengland.com/blog/the-door-problem/): Check out some official game team roles
+
+</details>
 
 </details>
 
