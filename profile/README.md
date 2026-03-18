@@ -1,6 +1,7 @@
 <details open>
 
 <summary>Class Docs</summary>
+<br />
 
 - [About](https://docs.google.com/presentation/d/e/2PACX-1vTolt9URY-F9EcztJ-dUWanNjiyod-wqKaOPv90rZugUE1-vs8Za1NZom4-UgX9hHHwNBGAP-ggtIUH/pub?start=false&loop=false&delayms=60000): Learn all about this class
 - [Curriculum](https://mukilteo.schoology.com/home/): Follow the curriculum for all skills
