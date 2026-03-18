@@ -6,7 +6,7 @@
 
   Class-related documents that will help you be successful and organized. 
 
-  <details>
+  <details open>
 
    <summary>
      <h4>General</h4>
@@ -27,7 +27,7 @@
 
   </details>
 
-  <details>
+  <details open>
 
    <summary>
      <h4>Project Forms</h4>
@@ -47,7 +47,7 @@
 
   </details>
 
-  <details>
+  <details open>
 
    <summary>
      <h4>Other Forms</h4>
@@ -64,7 +64,7 @@
 
   </details>
 
-  <details>
+  <details open>
 
    <summary>
      <h4>New Students</h4>
@@ -89,7 +89,7 @@
 
   All applications and software used in this class. Some have multiple options based on preference.
 
-  <details>
+  <details open>
 
    <summary>
      <h4>Game Engines</h4>
@@ -108,7 +108,7 @@
 
   </details>
   
-  <details>
+  <details open>
 
    <summary>
     <h4>Programming</h4>
@@ -125,7 +125,7 @@
 
   </details>
 
-  <details>
+  <details open>
 
    <summary>
     <h4>Design</h4>
@@ -143,7 +143,7 @@
 
   </details>
 
-  <details>
+  <details open>
 
    <summary>
      <h4>2D Art</h4>
@@ -165,7 +165,7 @@
 
   </details>
 
-  <details>
+  <details open>
 
    <summary>
     <h4>3D Art & Animation</h4>
@@ -186,7 +186,7 @@
 
   </details>
 
-  <details>
+  <details open>
 
    <summary>
     <h4>Color Palettes</h4>
@@ -203,7 +203,7 @@
 
   </details>
 
-  <details>
+  <details open>
 
    <summary>
     <h4>Fonts</h4>
@@ -220,7 +220,7 @@
 
   </details>
 
-  <details>
+  <details open>
 
    <summary>
      <h4>Music</h4>
@@ -238,7 +238,7 @@
 
   </details>
 
-  <details>
+  <details open>
 
   <summary>
     <h4>Sound Effects</h4>
@@ -253,7 +253,7 @@
 
   </details>
 
-  <details>
+  <details open>
 
    <summary>
      <h4>Project Management</h4>
@@ -269,7 +269,7 @@
 
   </details>
 
-  <details>
+  <details open>
 
    <summary>
      <h4>Version Control</h4>
@@ -286,7 +286,7 @@
 
   </details>
 
-  <details>
+  <details open>
 
    <summary>
      <h4>Video Production</h4>
@@ -302,7 +302,7 @@
 
   </details>
 
-  <details>
+  <details open>
 
    <summary>
      <h4>Business Development</h4>
@@ -321,7 +321,7 @@
 
   </details>
 
-  <details>
+  <details open>
 
    <summary>
      <h4>Publications & Merchandising</h4>
@@ -337,7 +337,7 @@
 
   </details>
 
-  <details>
+  <details open>
 
    <summary>
      <h4>Certification</h4>
@@ -353,7 +353,7 @@
 
   </details>
 
-  <details>
+  <details open>
 
    <summary>
      <h4>Miscellaneous</h4>
@@ -382,7 +382,7 @@
 
   Videos and websites to help strengthen your understanding of certain concepts.
 
-  <details>
+  <details open>
 
    <summary>
      <h4>Game Engines</h4>
@@ -400,7 +400,7 @@
     
   </details>
 
-  <details>
+  <details open>
 
    <summary>
      <h4>Programming</h4>
@@ -417,7 +417,7 @@
 
   </details>
 
-  <details>
+  <details open>
 
    <summary>
      <h4>Game Design</h4>
@@ -436,7 +436,7 @@
 
   </details>
 
-  <details>
+  <details open>
 
    <summary>
      <h4>2D Art</h4>
@@ -451,7 +451,7 @@
 
   </details>
 
-  <details>
+  <details open>
 
    <summary>
      <h4>3D Art & Animation</h4>
@@ -469,7 +469,7 @@
 
   </details>
 
-  <details>
+  <details open>
 
    <summary>
      <h4>Music</h4>
@@ -487,7 +487,7 @@
 
   </details>
 
-  <details>
+  <details open>
 
    <summary>
      <h4>Mathematics</h4>
@@ -505,7 +505,7 @@
 
   </details>
 
-  <details>
+  <details open>
 
    <summary>
     <h4>Project Management</h4>
@@ -522,7 +522,7 @@
 
   </details>
   
-  <details>
+  <details open>
 
    <summary>
      <h4>Typing & Safety</h4>
@@ -540,7 +540,7 @@
 
   </details>
 
-  <details>
+  <details open>
     
    <summary>
      <h4>College</h4>
@@ -560,7 +560,7 @@
 
   </details>
 
-  <details>
+  <details open>
 
    <summary>
      <h2>Career</h2>
