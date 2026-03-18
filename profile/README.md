@@ -16,7 +16,11 @@
 
 <details>
 
-<summary><h2>Project Forms</h2></summary>
+<summary><h2>Forms</h2></summary>
+
+<details>
+
+<summary><h4>Project</h4></summary>
 
 - [Team Input](https://forms.gle/tAq8cXF5NU3pDy8FA): Give the instructor feedback on who you do and don't want to work with
 - [Kickoff](https://forms.gle/jgsyciY8rAWwQ3SaA): Complete steps to ensure a successful project launch
@@ -30,13 +34,15 @@
 
 <details>
 
-<summary><h2>Other Forms</h2></summary>
+<summary><h4>Other</h4></summary>
 
 - [Skill Submission](https://forms.gle/6LEc8BR3XjiNDAeJ7): Get graded for skills you've completed in class
 - [Onboarding](https://forms.gle/uv7NZoEeyE9qtGFS6): Get ready to start this class
 - [Offboarding](https://forms.gle/CgKAjFZGZK6qaHu28): Get ready to leave this class
 - [Ticket](https://forms.gle/hvqNCfDRHKVtB8Tt5): Let the instructor know when you're having technology issues
 - [Letter of Recommendation](https://forms.gle/9cCyRS9xUwEgjrYw8): Get a custom letter of recommendation from the instructor
+
+</details>
 
 </details>
 
