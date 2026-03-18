@@ -51,22 +51,6 @@
 
 <details>
 
-<summary>Miscellaneous Websites</summary>
-<br />
-
-- [Sno-Isle Application](https://scmukilteoschools.fsenrollment.com/users/sign_in): Apply for this class and others for next school year
-- [Sno-Isle Website](https://sc.mukilteoschools.org/): Visit the official Sno-Isle website
-- [Animation Website](https://sites.google.com/view/anisisc): Visit the official Animation website
-- [AMES Website](https://ames.team): Visit the official AMES website
-- [Food Order](https://www.traininggroundscafe.com/): Order food from the Culinary classes
-- [Class Merch](https://streamline-llc.net/snoisle26/shop/home): Buy Video Game Production-themed merchandise
-
-</details>
-
----
-
-<details>
-
 <summary>Applications & Software</summary>
 <br />
 
@@ -458,12 +442,7 @@
 
 <details>
 
-<summary>College & Career Resources</summary>
-<br />
-
-<details>
-
-<summary>College</summary>
+<summary>College Resources</summary>
 <br />
 
 - [FAFSA](https://studentaid.gov/h/apply-for-aid/fafsa): Apply for the FAFSA to get money taken off your tuition
@@ -476,29 +455,19 @@
 
 </details>
 
-
+---
 
 <details>
 
-<summary>Career</summary>
+<summary>Career Resources</summary>
 <br />
 
+- [Seattle Indies](https://www.seattleindies.org/): A local nonprofit organization connecting Puget Sound-based game developers
+- [International Game Developers Association](https://igda.org/): An international nonprofit organization connecting game developers around the world
 - [LinkedIn](https://www.linkedin.com/): Browse jobs and make connections all around the world
 - [Indeed](https://www.indeed.com/): Browse jobs and easily apply for them
 - [Into Games](https://intogames.org/): View resources and learn more about the game industry
 - [WorkSource](https://seeker.worksourcewa.com/): Browse the state job board
-
-</details>
-
-
-
-<details>
-
-<summary>Miscellaneous</summary>
-<br />
-
-- [Seattle Indies](https://www.seattleindies.org/): A local nonprofit organization connecting Puget Sound-based game developers
-- [International Game Developers Association](https://igda.org/): An international nonprofit organization helping connect game developers around the world
 - [Games 4 Change](https://www.gamesforchange.org/): Join a community of social impactors and compete in competitions
 - [Game Jams](https://itch.io/jams/): Take part in game jams around the world and develop your portfolio
 - [Hackathons](https://devpost.com/hackathons): Join hackathons around the world and win prizes
@@ -506,5 +475,19 @@
 - [SIX Booth Application](https://six.seattleindies.org/apply/): Submit a game to be exhibited at SIX
 
 </details>
+
+---
+
+<details>
+
+<summary>Miscellaneous Websites</summary>
+<br />
+
+- [Sno-Isle Application](https://scmukilteoschools.fsenrollment.com/users/sign_in): Apply for this class and others for next school year
+- [Sno-Isle Website](https://sc.mukilteoschools.org/): Visit the official Sno-Isle website
+- [Animation Website](https://sites.google.com/view/anisisc): Visit the official Animation website
+- [AMES Website](https://ames.team): Visit the official AMES website
+- [Food Order](https://www.traininggroundscafe.com/): Order food from the Culinary classes
+- [Class Merch](https://streamline-llc.net/snoisle26/shop/home): Buy Video Game Production-themed merchandise
 
 </details>
