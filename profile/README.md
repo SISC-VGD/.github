@@ -1,477 +1,604 @@
-<details open>
+<details>
 
-<summary><h2>Class Docs</h2></summary>
+  <summary>
+    <h2>Class Docs</h2>
+  </summary>
 
-- [About](https://docs.google.com/presentation/d/e/2PACX-1vTolt9URY-F9EcztJ-dUWanNjiyod-wqKaOPv90rZugUE1-vs8Za1NZom4-UgX9hHHwNBGAP-ggtIUH/pub?start=false&loop=false&delayms=60000): Learn all about this class
-- [Curriculum](https://mukilteo.schoology.com/home/): Follow the curriculum for all skills
-- [Grades](https://www.q.wa-k12.net/mukilt): Check your current Skyward grade
-- [Calendar](https://calendar.google.com/calendar/embed?src=3c4c4e17b814087b7fe2c3f7d3541ae21e0146d51f795a0b5f65539068c07e54%40group.calendar.google.com&ctz=America%2FLos_Angeles): View and save the class calendar
-- [Materials](https://drive.google.com/drive/folders/12V3AuKpwl9pa0SUP9Pkd7tmAtAn6TgMJ?usp=drive_link): View materials such as resumes, cover letters, design documents, and more
-- [School Email](https://outlook.office365.com): Send and receive school emails
-- [Itch.io](https://sisc-vgdani.itch.io/): View and play games created by the class
-- [Classroom Screens](https://classroomscreen.com/app/p/73a96a5d-84ce-4128-ab32-889ceea07eda/0): View the daily screen for today
-- [Announcements](https://github.com/orgs/SISC-VGD/discussions/categories/announcements): Read current and past announcements
+  Class-related documents that will help you be successful and organized. 
+
+  <details>
+
+   <summary>
+     <h4>General</h4>
+   </summary>
+
+   Links to websites that you will use almost every day.
+
+   - [Curriculum](https://mukilteo.schoology.com/home/): Follow the curriculum for all skills
+   - [Grades](https://www.q.wa-k12.net/mukilt): Check your current Skyward grade
+   - [Calendar](https://calendar.google.com/calendar/embed?src=3c4c4e17b814087b7fe2c3f7d3541ae21e0146d51f795a0b5f65539068c07e54%40group.calendar.google.com&ctz=America%2FLos_Angeles): View and save the class calendar
+   - [Materials](https://drive.google.com/drive/folders/12V3AuKpwl9pa0SUP9Pkd7tmAtAn6TgMJ?usp=drive_link): View materials such as resumes, cover letters, design documents, and more
+   - [School Email](https://outlook.office365.com): Send and receive school emails
+   - [Itch.io](https://sisc-vgdani.itch.io/): View and play games created by the class
+   - [Classroom Screens](https://classroomscreen.com/app/p/73a96a5d-84ce-4128-ab32-889ceea07eda/0): View the daily screen for today
+   - [Announcements](https://github.com/orgs/SISC-VGD/discussions/categories/announcements): Read current and past announcements
+
+   ---
+
+  </details>
+
+  <details>
+
+   <summary>
+     <h4>Project Forms</h4>
+   </summary>
+
+   Forms you will regularly fill out when completing projects throughout the school year.
+
+   - [Team Input](https://forms.gle/tAq8cXF5NU3pDy8FA): Give the instructor feedback on who you do and don't want to work with
+   - [Kickoff](https://forms.gle/jgsyciY8rAWwQ3SaA): Complete steps to ensure a successful project launch
+   - [Teammate Concern](https://forms.gle/MERSYmhs8W56LGqS9): Let the instructor know when your team is struggling
+   - [Post-Mortem](https://forms.gle/b7H92McKoe1cw81w7): Self-reflect on a project after it's done
+   - [Professionalism](https://forms.gle/fCJi7SSr3H8MvZCG8): Review you and your teammates' professionalism after the project is done
+   - [Give Review](https://forms.gle/keEqu2MqgtUMSTiVA): Give reviews to other projects after they're done
+   - [Read Reviews](https://docs.google.com/spreadsheets/d/1JMuhKi5LpFEk8hRABRT7DcjE3cOycGHMvAd222QF6aY/edit?usp=sharing): Read all the reviews that have been submitted this year
+
+   ---
+
+  </details>
+
+  <details>
+
+   <summary>
+     <h4>Other Forms</h4>
+   </summary>
+
+   Forms you will fill out semi-regularly throughout the school year.
+
+   - [Skill Submission](https://forms.gle/6LEc8BR3XjiNDAeJ7): Get graded for skills you've completed in class
+   - [Ticket](https://forms.gle/hvqNCfDRHKVtB8Tt5): Let the instructor know when you're having technology issues
+   - [Letter of Recommendation](https://forms.gle/9cCyRS9xUwEgjrYw8): Get a custom letter of recommendation from the instructor
+   - [Offboarding](https://forms.gle/CgKAjFZGZK6qaHu28): Get ready to leave this class
+
+   ---
+
+  </details>
+
+  <details>
+
+   <summary>
+     <h4>New Students</h4>
+   </summary>
+
+   New students start here! Watch the presentation and complete the onboarding form before starting your first project.
+
+   - [About](https://docs.google.com/presentation/d/e/2PACX-1vTolt9URY-F9EcztJ-dUWanNjiyod-wqKaOPv90rZugUE1-vs8Za1NZom4-UgX9hHHwNBGAP-ggtIUH/pub?start=false&loop=false&delayms=60000): Learn all about this class
+   - [Onboarding](https://forms.gle/uv7NZoEeyE9qtGFS6): Get ready to start this class
+
+  </details>
+
+---
 
 </details>
 
 <details>
 
-<summary><h2>Forms</h2></summary>
+  <summary>
+    <h2>Applications & Software</h2>
+  </summary>
 
-<details>
+  All applications and software used in this class. Some have multiple options based on preference.
 
-<summary><h4>Project</h4></summary>
+  <details>
 
-- [Team Input](https://forms.gle/tAq8cXF5NU3pDy8FA): Give the instructor feedback on who you do and don't want to work with
-- [Kickoff](https://forms.gle/jgsyciY8rAWwQ3SaA): Complete steps to ensure a successful project launch
-- [Teammate Concern](https://forms.gle/MERSYmhs8W56LGqS9): Let the instructor know when your team is struggling
-- [Post-Mortem](https://forms.gle/b7H92McKoe1cw81w7): Self-reflect on a project after it's done
-- [Professionalism](https://forms.gle/fCJi7SSr3H8MvZCG8): Review you and your teammates' professionalism after the project is done
-- [Give Review](https://forms.gle/keEqu2MqgtUMSTiVA): Give reviews to other projects after they're done
-- [Read Reviews](https://docs.google.com/spreadsheets/d/1JMuhKi5LpFEk8hRABRT7DcjE3cOycGHMvAd222QF6aY/edit?usp=sharing): Read all the reviews that have been submitted this year
+   <summary>
+     <h4>Game Engines</h4>
+   </summary>
+
+   Download software for developing video games.
+    
+   - [Unity Hub](https://unity.com/download/): Manage Unity installs, projects, and licenses
+   - [Unity 6.3](https://unity.com/releases/editor/whats-new/6000.3.11/): Make games using the Unity game engine
+   - [Epic Games Launcher](https://store.epicgames.com/en-US/download): Launcher for Unreal Engine
+   - [Unreal Engine](https://www.unrealengine.com/en-US/download/): Make games using Unreal Engine
+   - [Godot](https://godotengine.org/download/): Make games using the Godot game engine
+   - [Godot Online Editor](https://editor.godotengine.org/releases/latest/): Practice using Godot online
+
+   ---
+
+  </details>
+  
+  <details>
+
+   <summary>
+    <h4>Programming</h4>
+   </summary>
+
+   Download software and visit websites for programming.
+    
+   - [Visual Studio](https://visualstudio.microsoft.com/downloads/): Write code using Microsoft's IDE (best for C#)
+   - [Visual Studio Code](https://code.visualstudio.com/download/): Write code using a lightweight text editor
+   - [OneCompiler](https://onecompiler.com/): Write code online in a variety of languages
+   - [JSON Editor Online](https://jsoneditoronline.org/): Edit JSON files online
+
+   ---
+
+  </details>
+
+  <details>
+
+   <summary>
+    <h4>Design</h4>
+   </summary>
+
+   Download software and visit websites for level design, UI design, narrative design, and more.
+    
+   - [Tiled](https://www.mapeditor.org/): Design tile-based levels and export to Unity
+   - [Figma](https://www.figma.com/): Prototype UI designs online
+   - [Twine](https://twinery.org/2/): Prototype non-linear stories online
+   - [Draw.io](https://app.diagrams.net/): Create diagrams and flowcharts
+   - [Picker Wheel](https://pickerwheel.com/): Prototype random number generators
+
+   ---
+
+  </details>
+
+  <details>
+
+   <summary>
+     <h4>2D Art</h4>
+   </summary>
+
+   Download software and visit websites for 2D art.
+    
+   - [Photoshop](https://www.adobe.com/download/photoshop): Edit and create images (included in your student plan)
+   - [Krita](https://krita.org/en/): Edit and create high quality art for free
+   - [FireAlpaca](https://firealpaca.com/download/): Edit and create images for free
+   - [GIMP](https://www.gimp.org/downloads/): Edit and create images for free
+   - [Aseprite](https://www.aseprite.org/download/): Create pixel art for free (ask for a build)
+   - [Photopea](https://www.photopea.com/): Edit and create images online
+   - [Piskel](https://www.piskelapp.com/): Create pixel art online
+   - [Pixilart](https://www.pixilart.com/draw): Create and share pixel art online
+   - [Sprite Sheet Packer](https://www.codeandweb.com/free-sprite-sheet-packer): Combine multiple sprites into a single spritesheet online
+
+   ---
+
+  </details>
+
+  <details>
+
+   <summary>
+    <h4>3D Art & Animation</h4>
+   </summary>
+    
+   Download software and visit websites for 3D art and animation.
+
+   - [Maya](https://www.autodesk.com/products/maya/): Create 3D models using industry standard software
+   - [Blender](https://www.blender.org/download/): Create 3D models for video games
+   - [ZBrushCoreMini](https://www.maxon.net/en/get-zbrushcoremini): Sculpt 3D models with a variety of tools
+   - [Substance Painter](https://www.adobe.com/products/substance3d/apps/painter.html): Apply materials to 3D models
+   - [Substance Designer](https://www.adobe.com/products/substance3d/apps/designer.html): Design materials to use in 3D applications
+   - [NormalMap-Online](https://cpetry.github.io/NormalMap-Online/): Create various maps from existing textures
+   - [Poliigon](https://www.poliigon.com/): Browse hundreds of free-to-use materials online for your models
+   - [Mixamo](https://www.mixamo.com/): Animate rigged characters
+
+   ---
+
+  </details>
+
+  <details>
+
+   <summary>
+    <h4>Color Palettes</h4>
+   </summary>
+    
+   Visit websites for creating or picking from existing color palettes.
+
+   - [Coolors](https://coolors.co/): Generate randomized color palettes
+   - [ColorSpace](https://mycolor.space/): Generate multiple color palettes from a single color
+   - [Lospec](https://lospec.com/): Browse through community-submitted color palettes
+   - [Color Hunt](https://colorhunt.co/): Browse through community-submitted color palettes
+
+   ---
+
+  </details>
+
+  <details>
+
+   <summary>
+    <h4>Fonts</h4>
+   </summary>
+    
+   Visit websites for creating or picking from existing fonts.
+
+   - [Google Fonts](https://fonts.google.com/): Browse through Google's list of fonts
+   - [Adobe Fonts](https://fonts.adobe.com/): Browse through Adobe's list of fonts
+   - [DaFont](https://www.dafont.com/): Browse through hundreds of free-to-use fonts
+   - [FontStruct](https://fontstruct.com/): Create and export fonts using an online editor
+
+   ---
+
+  </details>
+
+  <details>
+
+   <summary>
+     <h4>Music</h4>
+   </summary>
+    
+   Download software and visit websites for music production.
+
+   - [Cakewalk Next](https://www.cakewalk.com/next): Record and edit music for free
+   - [BandLab](https://www.bandlab.com/): Record and edit music online for free
+   - [Soundtrap](https://www.soundtrap.com/musicmakers/): Record and edit music online for free
+   - [Online Sequencer](https://onlinesequencer.net/): Create and export music online
+   - [Cobalt](https://cobalt.tools/): Strip MP3 files from YouTube videos online
+
+   ---
+
+  </details>
+
+  <details>
+
+  <summary>
+    <h4>Sound Effects</h4>
+  </summary>
+
+   Download software and visit websites for creating or picking from existing sound effects.
+    
+   - [Audacity](https://www.audacityteam.org/download/): Edit audio files for free
+   - [BFXR](https://www.bfxr.net/): Create sound effects online for free
+
+   ---
+
+  </details>
+
+  <details>
+
+   <summary>
+     <h4>Project Management</h4>
+   </summary>
+
+   Visit websites for project management and team communication.
+    
+   - [Jira](https://www.atlassian.com/software/jira): Manage projects tasks using industry standard software with support for Agile
+   - [Confluence](https://www.atlassian.com/software/confluence/): Manage project documentation with support for Jira
+   - [Slack](https://slack.com/): Communicate and plan with teammates online
+
+   ---
+
+  </details>
+
+  <details>
+
+   <summary>
+     <h4>Version Control</h4>
+   </summary>
+
+   Download software for managing your projects on the cloud.
+    
+   - [Git](https://git-scm.com/downloads/): Needed for version control software to work
+   - [Git LFS](https://git-lfs.com/): Allows GitHub to store large files
+   - [GitHub Desktop](https://desktop.github.com/download/): Manage local repositories using the official GitHub client
+   - [Git for Unity](https://github.com/spoiledcat/git-for-unity): Use Git right inside of Unity
+
+   ---
+
+  </details>
+
+  <details>
+
+   <summary>
+     <h4>Video Production</h4>
+   </summary>
+
+   Download software for creating and uploading gameplay videos.
+    
+   - [OBS Studio](https://obsproject.com/download/): Record and export videos
+   - [Premiere Pro](https://www.adobe.com/products/premiere/): Edit videos using industry standard software
+   - [YouTube Studio](https://studio.youtube.com): Upload and share videos online
+
+   ---
+
+  </details>
+
+  <details>
+
+   <summary>
+     <h4>Business Development</h4>
+   </summary>
+
+   Visit websites for business development, domain registration, and uploading games.
+    
+   - [Corporations and Charities System](https://ccfs.sos.wa.gov/#/): Register as a corporation in Washington State
+   - [WA Department of Revenue](https://secure.dor.wa.gov/gteunauth/_/): Do taxes and fill out business forms for your corporation
+   - [US Patent and Trademark Office](https://www.uspto.gov/): Register for patents and trademarks in the United States
+   - [Google Sites](https://sites.google.com/): Create websites to host games, portfolios, or company resources on
+   - [GoDaddy](https://www.godaddy.com/): Register custom domains for websites and emails
+   - [Steamworks](https://partner.steamgames.com/): Upload your games to Steam and utilize its APIs
+
+   ---
+
+  </details>
+
+  <details>
+
+   <summary>
+     <h4>Publications & Merchandising</h4>
+   </summary>
+
+   Visit websites for merchandising and event publications.
+    
+   - [VistaPrint](https://www.vistaprint.com/): Order promotional materials like posters and business cards
+   - [Sticker Mule](https://www.stickermule.com/): Order promotional materials like stickers and pins
+   - [Wooacry](https://wooacry.com/): Order promotional materials like stickers and pins
+
+   ---
+
+  </details>
+
+  <details>
+
+   <summary>
+     <h4>Certification</h4>
+   </summary>
+
+   Visit websites for exam studying, practice tests, and eventual certification.
+    
+   - [Certiport](https://certiport.pearsonvue.com/): Create an account and start earning certifications
+   - [Compass Cloud](https://compasscloud.certiport.com/): Take certification tests online
+   - [GMetrix](http://gmetrix.net/): Study and take practice certification tests (Exam Code: **30358-vgd-53951**)
+
+   ---
+
+  </details>
+
+  <details>
+
+   <summary>
+     <h4>Miscellaneous</h4>
+   </summary>
+
+   Download software and visit websites that don't fit any of the above categories.
+    
+   - [Creative Cloud](https://www.adobe.com/creativecloud.html): Manage Adobe software
+   - [Wacom Drivers](https://www.wacom.com/en-us/support/product-support/drivers): Drivers needed for Wacom products
+   - [Huion Drivers](https://www.huion.com/download/): Drivers needed for Huion products
+   - [Meta Quest Developer Hub](https://developers.meta.com/horizon/documentation/unity/ts-mqdh/): Debug and deploy apps to Meta Quest devices
+   - [7-Zip](https://www.7-zip.org/): Compress and extract Zip files using high-efficiency algorithms
+   - [OpenGameArt.org](https://opengameart.org/): Browse through thousands of free-to-use art and audio assets for your game
+
+  </details>
+
+---
 
 </details>
 
 <details>
 
-<summary><h4>Other</h4></summary>
+  <summary>
+    <h2>Resources</h2>
+  </summary>
 
-- [Skill Submission](https://forms.gle/6LEc8BR3XjiNDAeJ7): Get graded for skills you've completed in class
-- [Onboarding](https://forms.gle/uv7NZoEeyE9qtGFS6): Get ready to start this class
-- [Offboarding](https://forms.gle/CgKAjFZGZK6qaHu28): Get ready to leave this class
-- [Ticket](https://forms.gle/hvqNCfDRHKVtB8Tt5): Let the instructor know when you're having technology issues
-- [Letter of Recommendation](https://forms.gle/9cCyRS9xUwEgjrYw8): Get a custom letter of recommendation from the instructor
+  Videos and websites to help strengthen your understanding of certain concepts.
 
-</details>
+  <details>
 
-</details>
+   <summary>
+     <h4>Game Engines</h4>
+   </summary>
 
-<details>
+   Learn more about Unity and other game engines.
+    
+   - [Class Videos](https://www.youtube.com/@SISCVideoGameDesign): Follow tutorials for implementing specific game mechanics
+   - [Brackeys](https://www.youtube.com/@Brackeys/): Watch free videos to learn how to use Unity
+   - [Muddy Wolf](https://www.youtube.com/@MuddyWolf): Watch free videos to learn how to use Unity
+   - [Unity Learn](https://learn.unity.com/): Learn how to use Unity through official tutorials
+   - [GameDev.tv](https://www.gamedev.tv/): Pay for high-quality game development courses
 
-<summary><h2>Applications & Software</h2></summary>
+   ---
+    
+  </details>
 
-<details>
+  <details>
 
-<summary>Game Engines</summary>
-<br />
+   <summary>
+     <h4>Programming</h4>
+   </summary>
 
-- [Unity Hub](https://unity.com/download/): Manage Unity installs, projects, and licenses
-- [Unity 6.3](https://unity.com/releases/editor/whats-new/6000.3.11/): Make games using the Unity game engine
-- [Epic Games Launcher](https://store.epicgames.com/en-US/download): Launcher for Unreal Engine
-- [Unreal Engine](https://www.unrealengine.com/en-US/download/): Make games using Unreal Engine
-- [Godot](https://godotengine.org/download/): Make games using the Godot game engine
-- [Godot Online Editor](https://editor.godotengine.org/releases/latest/): Practice using Godot online
+   Learn more about and practice programming.
+    
+   - [Programming with Mosh](https://www.youtube.com/@programmingwithmosh/): 
+   - [Nick Chapsas](https://www.youtube.com/@nickchapsas/): 
+   - [Codecademy](https://www.codecademy.com/): 
+   - [Sololearn](https://www.sololearn.com/): 
 
-</details>
+   ---
 
+  </details>
 
+  <details>
 
-<details>
+   <summary>
+     <h4>Game Design</h4>
+   </summary>
 
-<summary>Programming</summary>
-<br />
+   Learn more about level design, UI design, and game design in general.
+    
+   - [Game Maker's Toolkit](https://www.youtube.com/@GMTK/): 
+   - [Masahiro Sakurai on Creating Games](https://www.youtube.com/@sora_sakurai_en/): 
+   - [Daryl Talks Games](https://youtube.com/@daryltalksgames): 
+   - [Design Doc](https://youtube.com/@designdoc): 
+   - [Game Developers Conference](https://www.youtube.com/@Gdconf/): 
+   - [Game UI Database](https://www.gameuidatabase.com/): 
 
-- [Visual Studio](https://visualstudio.microsoft.com/downloads/): Write code using Microsoft's IDE (best for C#)
-- [Visual Studio Code](https://code.visualstudio.com/download/): Write code using a lightweight text editor
-- [OneCompiler](https://onecompiler.com/): Write code online in a variety of languages
-- [JSON Editor Online](https://jsoneditoronline.org/): Edit JSON files online
+   ---
 
-</details>
+  </details>
 
+  <details>
 
+   <summary>
+     <h4>2D Art</h4>
+   </summary>
 
-<details>
+   Learn more about 2D art.
+    
+   - [Pixel Pete](https://www.youtube.com/@PeterMilko): 
+   - [Brandon James Greer](https://www.youtube.com/@BJGpixel/videos): 
 
-<summary>Design</summary>
-<br />
+   ---
 
-- [Tiled](https://www.mapeditor.org/): Design tile-based levels and export to Unity
-- [Figma](https://www.figma.com/): Prototype UI designs online
-- [Twine](https://twinery.org/2/): Prototype non-linear stories online
-- [Draw.io](https://app.diagrams.net/): Create diagrams and flowcharts
-- [Picker Wheel](https://pickerwheel.com/): Prototype random number generators
+  </details>
 
-</details>
+  <details>
 
+   <summary>
+     <h4>3D Art & Animation</h4>
+   </summary>
 
+   Learn more about 3D art and animation.
+    
+   - [Joey Carlino](https://www.youtube.com/@JoeyCarlino): 
+   - [Blender Guru](https://www.youtube.com/@blenderguru/): 
+   - [Grant Abbitt](https://www.youtube.com/@grabbitt/): 
+   - [Pantheon](https://www.youtube.com/@Pantheon3D/): 
+   - [WiseFrog](https://www.youtube.com/@WiseFrog-x7l): 
 
-<details>
+   ---
 
-<summary>2D Art Pipeline</summary>
-<br />
+  </details>
 
-- [Photoshop](https://www.adobe.com/download/photoshop): Edit and create images (included in your student plan)
-- [Krita](https://krita.org/en/): Edit and create high quality art for free
-- [FireAlpaca](https://firealpaca.com/download/): Edit and create images for free
-- [GIMP](https://www.gimp.org/downloads/): Edit and create images for free
-- [Aseprite](https://www.aseprite.org/download/): Create pixel art for free (ask for a build)
-- [Photopea](https://www.photopea.com/): Edit and create images online
-- [Piskel](https://www.piskelapp.com/): Create pixel art online
-- [Pixilart](https://www.pixilart.com/draw): Create and share pixel art online
-- [Sprite Sheet Packer](https://www.codeandweb.com/free-sprite-sheet-packer): Combine multiple sprites into a single spritesheet online
+  <details>
 
-</details>
+   <summary>
+     <h4>Music</h4>
+   </summary>
 
-
-
-<details>
-
-<summary>3D Art Pipeline</summary>
-<br />
-
-- [Maya](https://www.autodesk.com/products/maya/): Create 3D models using industry standard software
-- [Blender](https://www.blender.org/download/): Create 3D models for video games
-- [ZBrushCoreMini](https://www.maxon.net/en/get-zbrushcoremini): Sculpt 3D models with a variety of tools
-- [Substance Painter](https://www.adobe.com/products/substance3d/apps/painter.html): Apply materials to 3D models
-- [Substance Designer](https://www.adobe.com/products/substance3d/apps/designer.html): Design materials to use in 3D applications
-- [NormalMap-Online](https://cpetry.github.io/NormalMap-Online/): Create various maps from existing textures
-- [Poliigon](https://www.poliigon.com/): Browse hundreds of free-to-use materials online for your models
-- [Mixamo](https://www.mixamo.com/): Animate rigged characters
-
-</details>
-
-
-
-<details>
-
-<summary>Color Palettes</summary>
-<br />
-
-- [Coolors](https://coolors.co/): Generate randomized color palettes
-- [ColorSpace](https://mycolor.space/): Generate multiple color palettes from a single color
-- [Lospec](https://lospec.com/): Browse through community-submitted color palettes
-- [Color Hunt](https://colorhunt.co/): Browse through community-submitted color palettes
-
-</details>
-
-
-
-<details>
-
-<summary>Fonts</summary>
-<br />
-
-- [Google Fonts](https://fonts.google.com/): Browse through Google's list of fonts
-- [Adobe Fonts](https://fonts.adobe.com/): Browse through Adobe's list of fonts
-- [DaFont](https://www.dafont.com/): Browse through hundreds of free-to-use fonts
-- [FontStruct](https://fontstruct.com/): Create and export fonts using an online editor
-
-</details>
-
-
-
-<details>
-
-<summary>Music</summary>
-<br />
-
-- [Cakewalk Next](https://www.cakewalk.com/next): Record and edit music for free
-- [BandLab](https://www.bandlab.com/): Record and edit music online for free
-- [Soundtrap](https://www.soundtrap.com/musicmakers/): Record and edit music online for free
-- [Online Sequencer](https://onlinesequencer.net/): Create and export music online
-- [Cobalt](https://cobalt.tools/): Strip MP3 files from YouTube videos online
-
-</details>
-
-
-
-<details>
-
-<summary>Sound Effects</summary>
-<br />
-
-- [Audacity](https://www.audacityteam.org/download/): Edit audio files for free
-- [BFXR](https://www.bfxr.net/): Create sound effects online for free
-
-</details>
-
-
-
-<details>
-
-<summary>Project Management</summary>
-<br />
-
-- [Jira](https://www.atlassian.com/software/jira): Manage projects tasks using industry standard software with support for Agile
-- [Confluence](https://www.atlassian.com/software/confluence/): Manage project documentation with support for Jira
-- [Slack](https://slack.com/): Communicate and plan with teammates online
-
-</details>
-
-
-
-<details>
-
-<summary>Version Control</summary>
-<br />
-
-- [Git](https://git-scm.com/downloads/): Needed for version control software to work
-- [Git LFS](https://git-lfs.com/): Allows GitHub to store large files
-- [GitHub Desktop](https://desktop.github.com/download/): Manage local repositories using the official GitHub client
-- [Git for Unity](https://github.com/spoiledcat/git-for-unity): Use Git right inside of Unity
-
-</details>
-
-
-
-<details>
-
-<summary>Video Production</summary>
-<br />
-
-- [OBS Studio](https://obsproject.com/download/): Record and export videos
-- [Premiere Pro](https://www.adobe.com/products/premiere/): Edit videos using industry standard software
-- [YouTube Studio](https://studio.youtube.com): Upload and share videos online
-
-</details>
-
-
-
-<details>
-
-<summary>Business Development</summary>
-<br />
-
-- [Corporations and Charities System](https://ccfs.sos.wa.gov/#/): Register as a corporation in Washington State
-- [WA Department of Revenue](https://secure.dor.wa.gov/gteunauth/_/): Do taxes and fill out business forms for your corporation
-- [US Patent and Trademark Office](https://www.uspto.gov/): Register for patents and trademarks in the United States
-- [Google Sites](https://sites.google.com/): Create websites to host games, portfolios, or company resources on
-- [GoDaddy](https://www.godaddy.com/): Register custom domains for websites and emails
-- [Steamworks](https://partner.steamgames.com/): Upload your games to Steam and utilize its APIs
-
-</details>
-
-
-
-<details>
-
-<summary>Merchandising</summary>
-<br />
-
-- [VistaPrint](https://www.vistaprint.com/): Order promotional materials like posters and business cards
-- [Sticker Mule](https://www.stickermule.com/): Order promotional materials like stickers and pins
-- [Wooacry](https://wooacry.com/): Order promotional materials like stickers and pins
-
-</details>
-
-
-
-<details>
-
-<summary>Certification</summary>
-<br />
-
-- [Certiport](https://certiport.pearsonvue.com/): Create an account and start earning certifications
-- [Compass Cloud](https://compasscloud.certiport.com/): Take certification tests online
-- [GMetrix](http://gmetrix.net/): Study and take practice certification tests (Exam Code: **30358-vgd-53951**)
-
-</details>
-
-
-
-<details>
-
-<summary>Miscellaneous</summary>
-<br />
-
-- [Creative Cloud](https://www.adobe.com/creativecloud.html): Manage Adobe software
-- [Wacom Drivers](https://www.wacom.com/en-us/support/product-support/drivers): Drivers needed for Wacom products
-- [Huion Drivers](https://www.huion.com/download/): Drivers needed for Huion products
-- [Meta Quest Developer Hub](https://developers.meta.com/horizon/documentation/unity/ts-mqdh/): Debug and deploy apps to Meta Quest devices
-- [7-Zip](https://www.7-zip.org/): Compress and extract Zip files using high-efficiency algorithms
-- [OpenGameArt.org](https://opengameart.org/): Browse through thousands of free-to-use art and audio assets for your game
-
-</details>
+   Learn more about music theory and production.
+    
+   - [Synthet](https://www.youtube.com/@synthet7/): 
+   - [In The Mix](https://www.youtube.com/@inthemix/): 
+   - [Zectro](https://www.youtube.com/@JustZectro/): 
+   - [Spaces](https://www.youtube.com/@spacesdnb/): 
+   - [Alex Rome](https://www.youtube.com/@AlexRome/): 
+
+   ---
+
+  </details>
+
+  <details>
+
+   <summary>
+     <h4>Mathematics</h4>
+   </summary>
+
+   Learn more about high school level math.
+    
+   - [3Blue1Brown](https://youtube.com/@3blue1brown/): 
+   - [Your SAT Coach](https://youtube.com/@yoursatcoach/): 
+   - [Andy Math](https://youtube.com/@andymath/): 
+   - [Khan Academy](https://www.khanacademy.org/): 
+   - [Math is Fun](https://www.mathsisfun.com/): 
+
+   ---
+
+  </details>
+
+  <details>
+
+   <summary>
+    <h4>Project Management</h4>
+   </summary>
+
+   Learn more about project management and game team structures.
+    
+   - [Project Management Institute](https://www.pmi.org/learning/free-online-courses): Learn about project management for free online
+   - [Scrum.org](https://www.scrum.org/courses): Learn Scrum through various paid courses
+   - [Atlassian](https://www.atlassian.com/agile): Read up on Atlassian's official guide on Agile
+   - [Liz England's Door Problem](https://lizengland.com/blog/the-door-problem/): Check out some official game team roles
+
+   ---
+
+  </details>
+  
+  <details>
+
+   <summary>
+     <h4>Typing & Safety</h4>
+   </summary>
+
+   Practice typing and computer safety.
+    
+   - [Typing.com](https://www.typing.com/): Learn typing for free
+   - [TypingClub](https://www.typingclub.com/): Learn typing for free
+   - [Monkeytype](https://monkeytype.com/): Practice typing randomized sentences
+   - [TypeRacer](https://play.typeracer.com/): Practice typing against other people all around the world
+   - [OSHA Guidelines](https://www.osha.gov/etools/computer-workstations/checklists/evaluation): Learn about computer safety through the official OSHA safety guidelines
+
+   ---
+
+  </details>
+
+  <details>
+    
+   <summary>
+     <h4>College</h4>
+   </summary>
+
+   Official college websites that are critical for future college students.
+
+   - [FAFSA](https://studentaid.gov/h/apply-for-aid/fafsa): Apply for the FAFSA to get money taken off your tuition
+   - [WAFSA](https://wsac.wa.gov/wasfa): Apply for the WAFSA if you do not or can not apply for the FAFSA
+   - [OtterBot](https://hello.mainstay.com/OtterBotStudent): Get tips and text alerts about college preparation
+   - [College Credit](https://www.pnwcollegecredit.org/students/): Earn college credit for passing this class
+   - [State Scholarships](https://washboard.wsac.wa.gov/): Browse statewide scholarships
+   - [Local Scholarships](https://sc.mukilteoschools.org/52453_2/): Browse local scholarships
+   - [Community and Technical Colleges](https://www.sbctc.edu/our-colleges/explore-colleges/): Learn about the various colleges where you can continue learning computer science
+
+   ---
+
+  </details>
+
+  <details>
+
+   <summary>
+     <h2>Career</h2>
+   </summary>
+
+   Career-focused websites that should be used when job hunting.
+
+   - [LinkedIn](https://www.linkedin.com/): Browse jobs and make connections all around the world
+   - [Indeed](https://www.indeed.com/): Browse jobs and easily apply for them
+   - [WorkSource](https://seeker.worksourcewa.com/): Browse the state job board
+   - [Seattle Indies](https://www.seattleindies.org/): A local nonprofit organization connecting Puget Sound-based game developers
+   - [International Game Developers Association](https://igda.org/): An international nonprofit organization connecting game developers around the world
+   - [Games 4 Change](https://www.gamesforchange.org/): Join a community of social impactors and compete in competitions
+   - [Game Jams](https://itch.io/jams/): Take part in game jams around the world and develop your portfolio
+   - [Hackathons](https://devpost.com/hackathons): Join hackathons around the world and win prizes
+   - [Into Games](https://intogames.org/): View resources and learn more about the game industry
+   - [PAX West Booth Application](https://west.paxsite.com/en-us/get-involved.html): Submit a game to be exhibited at PAX West
+   - [SIX Booth Application](https://six.seattleindies.org/apply/): Submit a game to be exhibited at SIX
+  
+  </details>
+
+---
 
 </details>
 
 <details>
 
-<summary><h2>Study Materials</h2></summary>
-
-[Videos](https://www.youtube.com/@SISCVideoGameDesign): Follow tutorials for implementing specific game mechanics
-
-<details>
-
-<summary>Safety</summary>
-<br />
-
-- [OSHA Guidelines](https://www.osha.gov/etools/computer-workstations/checklists/evaluation): Learn about computer safety through the official OSHA safety guidelines
-
-</details>
-
-
-
-<details>
-
-<summary>Typing</summary>
-<br />
-
-- [Typing.com](https://www.typing.com/): Learn typing for free
-- [TypingClub](https://www.typingclub.com/): Learn typing for free
-- [Monkeytype](https://monkeytype.com/): Practice typing randomized sentences
-- [TypeRacer](https://play.typeracer.com/): Practice typing against other people all around the world
-
-</details>
-
-
-
-<details>
-
-<summary>Game Engines</summary>
-<br />
-
-- [Brackeys](https://www.youtube.com/@Brackeys/): Watch free videos to learn how to use Unity
-- [Muddy Wolf](https://www.youtube.com/@MuddyWolf): Watch free videos to learn how to use Unity
-- [Unity Learn](https://learn.unity.com/): Learn how to use Unity through official tutorials
-- [GameDev.tv](https://www.gamedev.tv/): Pay for high-quality game development courses
-
-</details>
-
-
-
-<details>
-
-<summary>Programming</summary>
-<br />
-
-- [Programming with Mosh](https://www.youtube.com/@programmingwithmosh/): 
-- [Nick Chapsas](https://www.youtube.com/@nickchapsas/): 
-- [Codecademy](https://www.codecademy.com/): 
-- [Sololearn](https://www.sololearn.com/): 
-
-</details>
-
-
-
-<details>
-
-<summary>2D Art</summary>
-<br />
-
-- [Pixel Pete](https://www.youtube.com/@PeterMilko): 
-- [Brandon James Greer](https://www.youtube.com/@BJGpixel/videos): 
-
-</details>
-
-
-
-<details>
-
-<summary>3D Art & Animation</summary>
-<br />
-
-- [Joey Carlino](https://www.youtube.com/@JoeyCarlino): 
-- [Blender Guru](https://www.youtube.com/@blenderguru/): 
-- [Grant Abbitt](https://www.youtube.com/@grabbitt/): 
-- [Pantheon](https://www.youtube.com/@Pantheon3D/): 
-- [WiseFrog](https://www.youtube.com/@WiseFrog-x7l): 
-
-</details>
-
-
-
-<details>
-
-<summary>Music</summary>
-<br />
-
-- [Synthet](https://www.youtube.com/@synthet7/): 
-- [In The Mix](https://www.youtube.com/@inthemix/): 
-- [Zectro](https://www.youtube.com/@JustZectro/): 
-- [Spaces](https://www.youtube.com/@spacesdnb/): 
-- [Alex Rome](https://www.youtube.com/@AlexRome/): 
-
-</details>
-
-
-
-<details>
-
-<summary>Music</summary>
-<br />
-
-- [Game Maker's Toolkit](https://www.youtube.com/@GMTK/): 
-- [Masahiro Sakurai on Creating Games](https://www.youtube.com/@sora_sakurai_en/): 
-- [Daryl Talks Games](https://youtube.com/@daryltalksgames): 
-- [Design Doc](https://youtube.com/@designdoc): 
-- [Game Developers Conference](https://www.youtube.com/@Gdconf/): 
-- [Game UI Database](https://www.gameuidatabase.com/): 
-
-</details>
-
-
-
-<details>
-
-<summary>Mathematics</summary>
-<br />
-
-- [3Blue1Brown](https://youtube.com/@3blue1brown/): 
-- [Your SAT Coach](https://youtube.com/@yoursatcoach/): 
-- [Andy Math](https://youtube.com/@andymath/): 
-- [Khan Academy](https://www.khanacademy.org/): 
-- [Math is Fun](https://www.mathsisfun.com/): 
-
-</details>
-
-
-
-<details>
-
-<summary>Project Management</summary>
-<br />
-
-- [Project Management Institute](https://www.pmi.org/learning/free-online-courses): Learn about project management for free online
-- [Scrum.org](https://www.scrum.org/courses): Learn Scrum through various paid courses
-- [Atlassian](https://www.atlassian.com/agile): Read up on Atlassian's official guide on Agile
-- [Liz England's Door Problem](https://lizengland.com/blog/the-door-problem/): Check out some official game team roles
-
-</details>
-
-</details>
-
-<details>
-
-<summary><h2>College Resources</h2></summary>
-
-- [FAFSA](https://studentaid.gov/h/apply-for-aid/fafsa): Apply for the FAFSA to get money taken off your tuition
-- [WAFSA](https://wsac.wa.gov/wasfa): Apply for the WAFSA if you do not or can not apply for the FAFSA
-- [OtterBot](https://hello.mainstay.com/OtterBotStudent): Get tips and text alerts about college preparation
-- [College Credit](https://www.pnwcollegecredit.org/students/): Earn college credit for passing this class
-- [State Scholarships](https://washboard.wsac.wa.gov/): Browse statewide scholarships
-- [Local Scholarships](https://sc.mukilteoschools.org/52453_2/): Browse local scholarships
-- [Community and Technical Colleges](https://www.sbctc.edu/our-colleges/explore-colleges/): Learn about the various colleges where you can continue learning computer science
-
-</details>
-
-<details>
-
-<summary><h2>Career Resources</h2></summary>
-
-- [Seattle Indies](https://www.seattleindies.org/): A local nonprofit organization connecting Puget Sound-based game developers
-- [International Game Developers Association](https://igda.org/): An international nonprofit organization connecting game developers around the world
-- [LinkedIn](https://www.linkedin.com/): Browse jobs and make connections all around the world
-- [Indeed](https://www.indeed.com/): Browse jobs and easily apply for them
-- [Into Games](https://intogames.org/): View resources and learn more about the game industry
-- [WorkSource](https://seeker.worksourcewa.com/): Browse the state job board
-- [Games 4 Change](https://www.gamesforchange.org/): Join a community of social impactors and compete in competitions
-- [Game Jams](https://itch.io/jams/): Take part in game jams around the world and develop your portfolio
-- [Hackathons](https://devpost.com/hackathons): Join hackathons around the world and win prizes
-- [PAX West Booth Application](https://west.paxsite.com/en-us/get-involved.html): Submit a game to be exhibited at PAX West
-- [SIX Booth Application](https://six.seattleindies.org/apply/): Submit a game to be exhibited at SIX
-
-</details>
-
-<details>
-
-<summary><h2>Miscellaneous Websites</h2></summary>
-
-- [Sno-Isle Application](https://scmukilteoschools.fsenrollment.com/users/sign_in): Apply for this class and others for next school year
-- [Sno-Isle Website](https://sc.mukilteoschools.org/): Visit the official Sno-Isle website
-- [Animation Website](https://sites.google.com/view/anisisc): Visit the official Animation website
-- [AMES Website](https://ames.team): Visit the official AMES website
-- [Food Order](https://www.traininggroundscafe.com/): Order food from the Culinary classes
-- [Class Merch](https://streamline-llc.net/snoisle26/shop/home): Buy Video Game Production-themed merchandise
+  <summary>
+    <h2>Miscellaneous Websites</h2>
+  </summary>
+
+  Extra websites you'll be using that don't fit any of the above categories.
+
+  - [Sno-Isle Application](https://scmukilteoschools.fsenrollment.com/users/sign_in): Apply for this class and others for next school year
+  - [Sno-Isle Website](https://sc.mukilteoschools.org/): Visit the official Sno-Isle website
+  - [Animation Website](https://sites.google.com/view/anisisc): Visit the official Animation website
+  - [AMES Website](https://ames.team): Visit the official AMES website
+  - [Food Order](https://www.traininggroundscafe.com/): Order food from the Culinary classes
+  - [Class Merch](https://streamline-llc.net/snoisle26/shop/home): Buy Video Game Production-themed merchandise
 
 </details>
