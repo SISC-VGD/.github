@@ -30,6 +30,54 @@
 
 <details>
 
+<summary>Project Forms</summary>
+<br />
+
+- [Team Input](https://forms.gle/tAq8cXF5NU3pDy8FA): Give the instructor feedback on who you do and don't want to work with
+- [Kickoff](https://forms.gle/jgsyciY8rAWwQ3SaA): Complete steps to ensure a successful project launch
+- [Teammate Concern](https://forms.gle/MERSYmhs8W56LGqS9): Let the instructor know when your team is struggling
+- [Post-Mortem](https://forms.gle/b7H92McKoe1cw81w7): Self-reflect on a project after it's done
+- [Give Review](https://forms.gle/keEqu2MqgtUMSTiVA): Give reviews to other projects after they're done
+- [Read Reviews](https://docs.google.com/spreadsheets/d/1JMuhKi5LpFEk8hRABRT7DcjE3cOycGHMvAd222QF6aY/edit?usp=sharing): Read all the reviews that have been submitted this year
+
+</details>
+
+---
+
+<details>
+
+<summary>Other Forms</summary>
+<br />
+
+- [Skill Submission](https://forms.gle/6LEc8BR3XjiNDAeJ7): Get graded for skills you've completed in class
+- [Professionalism](https://forms.gle/fCJi7SSr3H8MvZCG8): Review you and your teammates' professionalism skills
+- [Onboarding](https://forms.gle/uv7NZoEeyE9qtGFS6): Get ready to start this class
+- [Offboarding](https://forms.gle/CgKAjFZGZK6qaHu28): Get ready to leave this class
+- [Ticket](https://forms.gle/hvqNCfDRHKVtB8Tt5): Let the instructor know when you're having technology issues
+- [Letter of Recommendation](https://forms.gle/9cCyRS9xUwEgjrYw8): Get a custom letter of recommendation from the instructor
+
+</details>
+
+---
+
+<details>
+
+<summary>Miscellaneous</summary>
+<br />
+
+- [Sno-Isle Application](https://scmukilteoschools.fsenrollment.com/users/sign_in): Apply for this class and others for next school year
+- [Sno-Isle Website](https://sc.mukilteoschools.org/): Visit the official Sno-Isle website
+- [Animation Website](https://sites.google.com/view/anisisc): Visit the official Animation website
+- [AMES Website](https://ames.team): Visit the official AMES website
+- [Food Order](https://www.traininggroundscafe.com/): Order food from the Culinary classes
+- [Class Merch](https://streamline-llc.net/snoisle26/shop/home): Buy Video Game Production-themed merchandise
+
+</details>
+
+---
+
+<details>
+
 <summary>Applications & Software</summary>
 <br />
 
@@ -467,53 +515,5 @@
 - [SIX Booth Application](https://six.seattleindies.org/apply/): Submit a game to be exhibited at SIX
 
 </details>
-
-</details>
-
----
-
-<details>
-
-<summary>Project Forms</summary>
-<br />
-
-- [Team Input](https://forms.gle/tAq8cXF5NU3pDy8FA): Give the instructor feedback on who you do and don't want to work with
-- [Kickoff](https://forms.gle/jgsyciY8rAWwQ3SaA): Complete steps to ensure a successful project launch
-- [Teammate Concern](https://forms.gle/MERSYmhs8W56LGqS9): Let the instructor know when your team is struggling
-- [Post-Mortem](https://forms.gle/b7H92McKoe1cw81w7): Self-reflect on a project after it's done
-- [Give Review](https://forms.gle/keEqu2MqgtUMSTiVA): Give reviews to other projects after they're done
-- [Read Reviews](https://docs.google.com/spreadsheets/d/1JMuhKi5LpFEk8hRABRT7DcjE3cOycGHMvAd222QF6aY/edit?usp=sharing): Read all the reviews that have been submitted this year
-
-</details>
-
----
-
-<details>
-
-<summary>Other Forms</summary>
-<br />
-
-- [Skill Submission](https://forms.gle/6LEc8BR3XjiNDAeJ7): Get graded for skills you've completed in class
-- [Professionalism](https://forms.gle/fCJi7SSr3H8MvZCG8): Review you and your teammates' professionalism skills
-- [Onboarding](https://forms.gle/uv7NZoEeyE9qtGFS6): Get ready to start this class
-- [Offboarding](https://forms.gle/CgKAjFZGZK6qaHu28): Get ready to leave this class
-- [Ticket](https://forms.gle/hvqNCfDRHKVtB8Tt5): Let the instructor know when you're having technology issues
-- [Letter of Recommendation](https://forms.gle/9cCyRS9xUwEgjrYw8): Get a custom letter of recommendation from the instructor
-
-</details>
-
----
-
-<details>
-
-<summary>Miscellaneous</summary>
-<br />
-
-- [Sno-Isle Application](https://scmukilteoschools.fsenrollment.com/users/sign_in): Apply for this class and others for next school year
-- [Sno-Isle Website](https://sc.mukilteoschools.org/): Visit the official Sno-Isle website
-- [Animation Website](https://sites.google.com/view/anisisc): Visit the official Animation website
-- [AMES Website](https://ames.team): Visit the official AMES website
-- [Food Order](https://www.traininggroundscafe.com/): Order food from the Culinary classes
-- [Class Merch](https://streamline-llc.net/snoisle26/shop/home): Buy Video Game Production-themed merchandise
 
 </details>
