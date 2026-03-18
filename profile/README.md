@@ -9,7 +9,7 @@
   <details open>
 
    <summary>
-     <h4>General</h4>
+     <h3>General</h3>
    </summary>
 
    Links to websites that you will use almost every day.
@@ -30,7 +30,7 @@
   <details open>
 
    <summary>
-     <h4>Project Forms</h4>
+     <h3>Project Forms</h3>
    </summary>
 
    Forms you will regularly fill out when completing projects throughout the school year.
@@ -50,7 +50,7 @@
   <details open>
 
    <summary>
-     <h4>Other Forms</h4>
+     <h3>Other Forms</h3>
    </summary>
 
    Forms you will fill out semi-regularly throughout the school year.
@@ -67,7 +67,7 @@
   <details open>
 
    <summary>
-     <h4>New Students</h4>
+     <h3>New Students</h3>
    </summary>
 
    New students start here! Watch the presentation and complete the onboarding form before starting your first project.
@@ -92,7 +92,7 @@
   <details open>
 
    <summary>
-     <h4>Game Engines</h4>
+     <h3>Game Engines</h3>
    </summary>
 
    Download software for developing video games.
@@ -111,7 +111,7 @@
   <details open>
 
    <summary>
-    <h4>Programming</h4>
+    <h3>Programming</h3>
    </summary>
 
    Download software and visit websites for programming.
@@ -128,7 +128,7 @@
   <details open>
 
    <summary>
-    <h4>Design</h4>
+    <h3>Design</h3>
    </summary>
 
    Download software and visit websites for level design, UI design, narrative design, and more.
@@ -146,7 +146,7 @@
   <details open>
 
    <summary>
-     <h4>2D Art</h4>
+     <h3>2D Art</h3>
    </summary>
 
    Download software and visit websites for 2D art.
@@ -168,7 +168,7 @@
   <details open>
 
    <summary>
-    <h4>3D Art & Animation</h4>
+    <h3>3D Art & Animation</h3>
    </summary>
     
    Download software and visit websites for 3D art and animation.
@@ -189,7 +189,7 @@
   <details open>
 
    <summary>
-    <h4>Color Palettes</h4>
+    <h3>Color Palettes</h3>
    </summary>
     
    Visit websites for creating or picking from existing color palettes.
@@ -206,7 +206,7 @@
   <details open>
 
    <summary>
-    <h4>Fonts</h4>
+    <h3>Fonts</h3>
    </summary>
     
    Visit websites for creating or picking from existing fonts.
@@ -223,7 +223,7 @@
   <details open>
 
    <summary>
-     <h4>Music</h4>
+     <h3>Music</h3>
    </summary>
     
    Download software and visit websites for music production.
@@ -241,7 +241,7 @@
   <details open>
 
   <summary>
-    <h4>Sound Effects</h4>
+    <h3>Sound Effects</h3>
   </summary>
 
    Download software and visit websites for creating or picking from existing sound effects.
@@ -256,7 +256,7 @@
   <details open>
 
    <summary>
-     <h4>Project Management</h4>
+     <h3>Project Management</h3>
    </summary>
 
    Visit websites for project management and team communication.
@@ -272,7 +272,7 @@
   <details open>
 
    <summary>
-     <h4>Version Control</h4>
+     <h3>Version Control</h3>
    </summary>
 
    Download software for managing your projects on the cloud.
@@ -289,7 +289,7 @@
   <details open>
 
    <summary>
-     <h4>Video Production</h4>
+     <h3>Video Production</h3>
    </summary>
 
    Download software for creating and uploading gameplay videos.
@@ -305,7 +305,7 @@
   <details open>
 
    <summary>
-     <h4>Business Development</h4>
+     <h3>Business Development</h3>
    </summary>
 
    Visit websites for business development, domain registration, and uploading games.
@@ -324,7 +324,7 @@
   <details open>
 
    <summary>
-     <h4>Publications & Merchandising</h4>
+     <h3>Publications & Merchandising</h3>
    </summary>
 
    Visit websites for merchandising and event publications.
@@ -340,7 +340,7 @@
   <details open>
 
    <summary>
-     <h4>Certification</h4>
+     <h3>Certification</h3>
    </summary>
 
    Visit websites for exam studying, practice tests, and eventual certification.
@@ -356,7 +356,7 @@
   <details open>
 
    <summary>
-     <h4>Miscellaneous</h4>
+     <h3>Miscellaneous</h3>
    </summary>
 
    Download software and visit websites that don't fit any of the above categories.
@@ -385,7 +385,7 @@
   <details open>
 
    <summary>
-     <h4>Game Engines</h4>
+     <h3>Game Engines</h3>
    </summary>
 
    Learn more about Unity and other game engines.
@@ -403,7 +403,7 @@
   <details open>
 
    <summary>
-     <h4>Programming</h4>
+     <h3>Programming</h3>
    </summary>
 
    Learn more about and practice programming.
@@ -420,7 +420,7 @@
   <details open>
 
    <summary>
-     <h4>Game Design</h4>
+     <h3>Game Design</h3>
    </summary>
 
    Learn more about level design, UI design, and game design in general.
@@ -439,7 +439,7 @@
   <details open>
 
    <summary>
-     <h4>2D Art</h4>
+     <h3>2D Art</h3>
    </summary>
 
    Learn more about 2D art.
@@ -454,7 +454,7 @@
   <details open>
 
    <summary>
-     <h4>3D Art & Animation</h4>
+     <h3>3D Art & Animation</h3>
    </summary>
 
    Learn more about 3D art and animation.
@@ -472,7 +472,7 @@
   <details open>
 
    <summary>
-     <h4>Music</h4>
+     <h3>Music</h3>
    </summary>
 
    Learn more about music theory and production.
@@ -490,7 +490,7 @@
   <details open>
 
    <summary>
-     <h4>Mathematics</h4>
+     <h3>Mathematics</h3>
    </summary>
 
    Learn more about high school level math.
@@ -508,7 +508,7 @@
   <details open>
 
    <summary>
-    <h4>Project Management</h4>
+    <h3>Project Management</h3>
    </summary>
 
    Learn more about project management and game team structures.
@@ -525,7 +525,7 @@
   <details open>
 
    <summary>
-     <h4>Typing & Safety</h4>
+     <h3>Typing & Safety</h3>
    </summary>
 
    Practice typing and computer safety.
@@ -543,7 +543,7 @@
   <details open>
     
    <summary>
-     <h4>College</h4>
+     <h3>College</h3>
    </summary>
 
    Official college websites that are critical for future college students.
