@@ -212,11 +212,11 @@
 
 <details>
 
-<summary>Certification</summary>
+<summary>Merchandising</summary>
 
-- [Certiport](https://certiport.pearsonvue.com/): Create an account and start earning certifications
-- [Compass Cloud](https://compasscloud.certiport.com/): Take certification tests online
-- [GMetrix](http://gmetrix.net/): Study and take practice certification tests (Exam Code: **30358-vgd-53951**)
+- [VistaPrint](https://www.vistaprint.com/): Order promotional materials like posters and business cards
+- [Sticker Mule](https://www.stickermule.com/): Order promotional materials like stickers and pins
+- [Wooacry](https://wooacry.com/): Order promotional materials like stickers and pins
 
 </details>
 
@@ -224,11 +224,11 @@
 
 <details>
 
-<summary>Merchandising</summary>
+<summary>Certification</summary>
 
-- [VistaPrint](https://www.vistaprint.com/): Order promotional materials like posters and business cards
-- [Sticker Mule](https://www.stickermule.com/): Order promotional materials like stickers and pins
-- [Wooacry](https://wooacry.com/): Order promotional materials like stickers and pins
+- [Certiport](https://certiport.pearsonvue.com/): Create an account and start earning certifications
+- [Compass Cloud](https://compasscloud.certiport.com/): Take certification tests online
+- [GMetrix](http://gmetrix.net/): Study and take practice certification tests (Exam Code: **30358-vgd-53951**)
 
 </details>
 
@@ -367,7 +367,7 @@
 
 
 
-</details>
+<details>
 
 <summary>Career</summary>
 
@@ -380,7 +380,7 @@
 
 
 
-</details>
+<details>
 
 <summary>Miscellaneous</summary>
 
@@ -395,10 +395,6 @@
 </details>
 
 </details>
-
-
-
-<details>
 
 <summary>Project Forms</summary>
 
