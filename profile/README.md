@@ -1,4 +1,6 @@
-## Class Docs
+<details>
+
+<summary>Class Docs</summary>
 
 [About](https://docs.google.com/presentation/d/e/2PACX-1vTolt9URY-F9EcztJ-dUWanNjiyod-wqKaOPv90rZugUE1-vs8Za1NZom4-UgX9hHHwNBGAP-ggtIUH/pub?start=false&loop=false&delayms=60000) &nbsp;&nbsp;
 [Curriculum](https://mukilteo.schoology.com/home/) &nbsp;&nbsp;
@@ -8,6 +10,8 @@
 [Itch.io](https://sisc-vgdani.itch.io/) &nbsp;&nbsp;
 [Classroom Screens](https://classroomscreen.com/app/p/73a96a5d-84ce-4128-ab32-889ceea07eda/0) &nbsp;&nbsp;
 [Announcements](https://github.com/orgs/SISC-VGD/discussions/categories/announcements) &nbsp;&nbsp;
+
+</details>
 
 
 
