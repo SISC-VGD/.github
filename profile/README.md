@@ -592,7 +592,7 @@
     <h2>Miscellaneous Websites</h2>
   </summary>
 
-  Extra websites you'll be using that don't fit any of the above categories.
+  Other websites you'll be using that don't fit any of the above categories.
 
   - [Sno-Isle Application](https://scmukilteoschools.fsenrollment.com/users/sign_in): Apply for this class and others for next school year
   - [Sno-Isle Website](https://sc.mukilteoschools.org/): Visit the official Sno-Isle website
