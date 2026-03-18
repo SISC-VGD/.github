@@ -19,6 +19,7 @@
 <details>
 
 <summary>Resources</summary>
+<br />
 
 - [Videos](https://www.youtube.com/@SISCVideoGameDesign): Follow tutorials for implementing specific game mechanics
 - [Class Materials](https://drive.google.com/drive/folders/12V3AuKpwl9pa0SUP9Pkd7tmAtAn6TgMJ?usp=drive_link): View materials such as resumes, cover letters, design documents, and more
@@ -30,10 +31,12 @@
 <details>
 
 <summary>Applications & Software</summary>
+<br />
 
 <details>
 
 <summary>Game Engines</summary>
+<br />
 
 - [Unity Hub](https://unity.com/download/): Manage Unity installs, projects, and licenses
 - [Unity 6.3](https://unity.com/releases/editor/whats-new/6000.3.11/): Make games using the Unity game engine
@@ -49,6 +52,7 @@
 <details>
 
 <summary>Programming</summary>
+<br />
 
 - [Visual Studio](https://visualstudio.microsoft.com/downloads/): Write code using Microsoft's IDE (best for C#)
 - [Visual Studio Code](https://code.visualstudio.com/download/): Write code using a lightweight text editor
@@ -62,6 +66,7 @@
 <details>
 
 <summary>Design</summary>
+<br />
 
 - [Tiled](https://www.mapeditor.org/): Design tile-based levels and export to Unity
 - [Figma](https://www.figma.com/): Prototype UI designs online
@@ -76,6 +81,7 @@
 <details>
 
 <summary>2D Art Pipeline</summary>
+<br />
 
 - [Photoshop](https://www.adobe.com/download/photoshop): Edit and create images (included in your student plan)
 - [Krita](https://krita.org/en/): Edit and create high quality art for free
@@ -94,6 +100,7 @@
 <details>
 
 <summary>3D Art Pipeline</summary>
+<br />
 
 - [Maya](https://www.autodesk.com/products/maya/): Create 3D models using industry standard software
 - [Blender](https://www.blender.org/download/): Create 3D models for video games
@@ -111,6 +118,7 @@
 <details>
 
 <summary>Color Palettes</summary>
+<br />
 
 - [Coolors](https://coolors.co/): Generate randomized color palettes
 - [ColorSpace](https://mycolor.space/): Generate multiple color palettes from a single color
@@ -124,6 +132,7 @@
 <details>
 
 <summary>Fonts</summary>
+<br />
 
 - [Google Fonts](https://fonts.google.com/): Browse through Google's list of fonts
 - [Adobe Fonts](https://fonts.adobe.com/): Browse through Adobe's list of fonts
@@ -137,6 +146,7 @@
 <details>
 
 <summary>Music</summary>
+<br />
 
 - [Cakewalk Next](https://www.cakewalk.com/next): Record and edit music for free
 - [BandLab](https://www.bandlab.com/): Record and edit music online for free
@@ -151,6 +161,7 @@
 <details>
 
 <summary>Sound Effects</summary>
+<br />
 
 - [Audacity](https://www.audacityteam.org/download/): Edit audio files for free
 - [BFXR](https://www.bfxr.net/): Create sound effects online for free
@@ -162,6 +173,7 @@
 <details>
 
 <summary>Project Management</summary>
+<br />
 
 - [Jira](https://www.atlassian.com/software/jira): Manage projects tasks using industry standard software with support for Agile
 - [Confluence](https://www.atlassian.com/software/confluence/): Manage project documentation with support for Jira
@@ -174,6 +186,7 @@
 <details>
 
 <summary>Version Control</summary>
+<br />
 
 - [Git](https://git-scm.com/downloads/): Needed for version control software to work
 - [Git LFS](https://git-lfs.com/): Allows GitHub to store large files
@@ -187,6 +200,7 @@
 <details>
 
 <summary>Video Production</summary>
+<br />
 
 - [OBS Studio](https://obsproject.com/download/): Record and export videos
 - [Premiere Pro](https://www.adobe.com/products/premiere/): Edit videos using industry standard software
@@ -199,6 +213,7 @@
 <details>
 
 <summary>Business Development</summary>
+<br />
 
 - [Corporations and Charities System](https://ccfs.sos.wa.gov/#/): Register as a corporation in Washington State
 - [WA Department of Revenue](https://secure.dor.wa.gov/gteunauth/_/): Do taxes and fill out business forms for your corporation
@@ -214,6 +229,7 @@
 <details>
 
 <summary>Merchandising</summary>
+<br />
 
 - [VistaPrint](https://www.vistaprint.com/): Order promotional materials like posters and business cards
 - [Sticker Mule](https://www.stickermule.com/): Order promotional materials like stickers and pins
@@ -226,6 +242,7 @@
 <details>
 
 <summary>Certification</summary>
+<br />
 
 - [Certiport](https://certiport.pearsonvue.com/): Create an account and start earning certifications
 - [Compass Cloud](https://compasscloud.certiport.com/): Take certification tests online
@@ -238,6 +255,7 @@
 <details>
 
 <summary>Miscellaneous</summary>
+<br />
 
 - [Creative Cloud](https://www.adobe.com/creativecloud.html): Manage Adobe software
 - [Wacom Drivers](https://www.wacom.com/en-us/support/product-support/drivers): Drivers needed for Wacom products
@@ -255,10 +273,12 @@
 <details>
 
 <summary>Study & Materials</summary>
+<br />
 
 <details>
 
 <summary>Safety</summary>
+<br />
 
 - [OSHA Guidelines](https://www.osha.gov/etools/computer-workstations/checklists/evaluation): Learn about computer safety through the official OSHA safety guidelines
 
@@ -269,6 +289,7 @@
 <details>
 
 <summary>Typing</summary>
+<br />
 
 - [Typing.com](https://www.typing.com/): Learn typing for free
 - [TypingClub](https://www.typingclub.com/): Learn typing for free
@@ -282,6 +303,7 @@
 <details>
 
 <summary>Game Engines</summary>
+<br />
 
 - [Brackeys](https://www.youtube.com/@Brackeys/): Watch free videos to learn how to use Unity
 - [Muddy Wolf](https://www.youtube.com/@MuddyWolf): Watch free videos to learn how to use Unity
@@ -295,6 +317,7 @@
 <details>
 
 <summary>Programming</summary>
+<br />
 
 - [Programming with Mosh](https://www.youtube.com/@programmingwithmosh/): 
 - [Nick Chapsas](https://www.youtube.com/@nickchapsas/): 
@@ -308,6 +331,7 @@
 <details>
 
 <summary>2D Art</summary>
+<br />
 
 - [Pixel Pete](https://www.youtube.com/@PeterMilko): 
 - [Brandon James Greer](https://www.youtube.com/@BJGpixel/videos): 
@@ -319,6 +343,7 @@
 <details>
 
 <summary>3D Art & Animation</summary>
+<br />
 
 - [Joey Carlino](https://www.youtube.com/@JoeyCarlino): 
 - [Blender Guru](https://www.youtube.com/@blenderguru/): 
@@ -333,6 +358,7 @@
 <details>
 
 <summary>Music</summary>
+<br />
 
 - [Synthet](https://www.youtube.com/@synthet7/): 
 - [In The Mix](https://www.youtube.com/@inthemix/): 
@@ -347,6 +373,7 @@
 <details>
 
 <summary>Music</summary>
+<br />
 
 - [Game Maker's Toolkit](https://www.youtube.com/@GMTK/): 
 - [Masahiro Sakurai on Creating Games](https://www.youtube.com/@sora_sakurai_en/): 
@@ -362,6 +389,7 @@
 <details>
 
 <summary>Mathematics</summary>
+<br />
 
 - [3Blue1Brown](https://youtube.com/@3blue1brown/): 
 - [Your SAT Coach](https://youtube.com/@yoursatcoach/): 
@@ -376,6 +404,7 @@
 <details>
 
 <summary>Project Management</summary>
+<br />
 
 - [Project Management Institute](https://www.pmi.org/learning/free-online-courses): Learn about project management for free online
 - [Scrum.org](https://www.scrum.org/courses): Learn Scrum through various paid courses
@@ -391,10 +420,12 @@
 <details>
 
 <summary>College & Career Resources</summary>
+<br />
 
 <details>
 
 <summary>College</summary>
+<br />
 
 - [FAFSA](https://studentaid.gov/h/apply-for-aid/fafsa): Apply for the FAFSA to get money taken off your tuition
 - [WAFSA](https://wsac.wa.gov/wasfa): Apply for the WAFSA if you do not or can not apply for the FAFSA
@@ -411,6 +442,7 @@
 <details>
 
 <summary>Career</summary>
+<br />
 
 - [LinkedIn](https://www.linkedin.com/): Browse jobs and make connections all around the world
 - [Indeed](https://www.indeed.com/): Browse jobs and easily apply for them
@@ -424,6 +456,7 @@
 <details>
 
 <summary>Miscellaneous</summary>
+<br />
 
 - [Seattle Indies](https://www.seattleindies.org/): A local nonprofit organization connecting Puget Sound-based game developers
 - [International Game Developers Association](https://igda.org/): An international nonprofit organization helping connect game developers around the world
@@ -442,6 +475,7 @@
 <details>
 
 <summary>Project Forms</summary>
+<br />
 
 - [Team Input](https://forms.gle/tAq8cXF5NU3pDy8FA): Give the instructor feedback on who you do and don't want to work with
 - [Kickoff](https://forms.gle/jgsyciY8rAWwQ3SaA): Complete steps to ensure a successful project launch
@@ -457,6 +491,7 @@
 <details>
 
 <summary>Other Forms</summary>
+<br />
 
 - [Skill Submission](https://forms.gle/6LEc8BR3XjiNDAeJ7): Get graded for skills you've completed in class
 - [Professionalism](https://forms.gle/fCJi7SSr3H8MvZCG8): Review you and your teammates' professionalism skills
@@ -472,6 +507,7 @@
 <details>
 
 <summary>Miscellaneous</summary>
+<br />
 
 - [Sno-Isle Application](https://scmukilteoschools.fsenrollment.com/users/sign_in): Apply for this class and others for next school year
 - [Sno-Isle Website](https://sc.mukilteoschools.org/): Visit the official Sno-Isle website
