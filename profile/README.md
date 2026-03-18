@@ -30,7 +30,9 @@
 
 <summary>Applications & Software</summary>
 
-## Game Engines
+<details>
+
+<summary>Game Engines</summary>
 
 - [Unity Hub](https://unity.com/download/): Manage Unity installs, projects, and licenses
 - [Unity 6.3](https://unity.com/releases/editor/whats-new/6000.3.11/): Make games using the Unity game engine
@@ -39,18 +41,26 @@
 - [Godot](https://godotengine.org/download/): Make games using the Godot game engine
 - [Godot Online Editor](https://editor.godotengine.org/releases/latest/): Practice using Godot online
 
+</details>
 
 
-## Programming
+
+<details>
+
+<summary>Programming</summary>
 
 - [Visual Studio](https://visualstudio.microsoft.com/downloads/): Write code using Microsoft's IDE (best for C#)
 - [Visual Studio Code](https://code.visualstudio.com/download/): Write code using a lightweight text editor
 - [OneCompiler](https://onecompiler.com/): Write code online in a variety of languages
 - [JSON Editor Online](https://jsoneditoronline.org/): Edit JSON files online
 
+</details>
 
 
-## Design
+
+<details>
+
+<summary>Design</summary>
 
 - [Tiled](https://www.mapeditor.org/): Design tile-based levels and export to Unity
 - [Figma](https://www.figma.com/): Prototype UI designs online
@@ -58,9 +68,13 @@
 - [Draw.io](https://app.diagrams.net/): Create diagrams and flowcharts
 - [Picker Wheel](https://pickerwheel.com/): Prototype random number generators
 
+</details>
 
 
-## 2D Art Pipeline
+
+<details>
+
+<summary>2D Art Pipeline</summary>
 
 - [Photoshop](https://www.adobe.com/download/photoshop): Edit and create images (included in your student plan)
 - [Krita](https://krita.org/en/): Edit and create high quality art for free
@@ -72,9 +86,13 @@
 - [Pixilart](https://www.pixilart.com/draw): Create and share pixel art online
 - [Sprite Sheet Packer](https://www.codeandweb.com/free-sprite-sheet-packer): Combine multiple sprites into a single spritesheet online
 
+</details>
 
 
-## 3D Art Pipeline
+
+<details>
+
+<summary>3D Art Pipeline</summary>
 
 - [Maya](https://www.autodesk.com/products/maya/): Create 3D models using industry standard software
 - [Blender](https://www.blender.org/download/): Create 3D models for video games
@@ -85,27 +103,39 @@
 - [Poliigon](https://www.poliigon.com/): Browse hundreds of free-to-use materials online for your models
 - [Mixamo](https://www.mixamo.com/): Animate rigged characters
 
+</details>
 
 
-## Color Palettes
+
+<details>
+
+<summary>Color Palettes</summary>
 
 - [Coolors](https://coolors.co/): Generate randomized color palettes
 - [ColorSpace](https://mycolor.space/): Generate multiple color palettes from a single color
 - [Lospec](https://lospec.com/): Browse through community-submitted color palettes
 - [Color Hunt](https://colorhunt.co/): Browse through community-submitted color palettes
 
+</details>
 
 
-## Fonts
+
+<details>
+
+<summary>Fonts</summary>
 
 - [Google Fonts](https://fonts.google.com/): Browse through Google's list of fonts
 - [Adobe Fonts](https://fonts.adobe.com/): Browse through Adobe's list of fonts
 - [DaFont](https://www.dafont.com/): Browse through hundreds of free-to-use fonts
 - [FontStruct](https://fontstruct.com/): Create and export fonts using an online editor
 
+</details>
 
 
-## Music
+
+<details>
+
+<summary>Music</summary>
 
 - [Cakewalk Next](https://www.cakewalk.com/next): Record and edit music for free
 - [BandLab](https://www.bandlab.com/): Record and edit music online for free
@@ -113,49 +143,61 @@
 - [Online Sequencer](https://onlinesequencer.net/): Create and export music online
 - [Cobalt](https://cobalt.tools/): Strip MP3 files from YouTube videos online
 
+</details>
 
 
-## Sound Effects
+
+<details>
+
+<summary>Sound Effects</summary>
 
 - [Audacity](https://www.audacityteam.org/download/): Edit audio files for free
 - [BFXR](https://www.bfxr.net/): Create sound effects online for free
 
+</details>
 
 
-## Project Management
+
+<details>
+
+<summary>Project Management</summary>
 
 - [Jira](https://www.atlassian.com/software/jira): Manage projects tasks using industry standard software with support for Agile
 - [Confluence](https://www.atlassian.com/software/confluence/): Manage project documentation with support for Jira
 - [Slack](https://slack.com/): Communicate and plan with teammates online
 
+</details>
 
 
-## Version Control
+
+<details>
+
+<summary>Version Control</summary>
 
 - [Git](https://git-scm.com/downloads/): Needed for version control software to work
 - [Git LFS](https://git-lfs.com/): Allows GitHub to store large files
 - [GitHub Desktop](https://desktop.github.com/download/): Manage local repositories using the official GitHub client
 - [Git for Unity](https://github.com/spoiledcat/git-for-unity): Use Git right inside of Unity
 
+</details>
 
 
-## Video Production
+
+<details>
+
+<summary>Video Production</summary>
 
 - [OBS Studio](https://obsproject.com/download/): Record and export videos
 - [Premiere Pro](https://www.adobe.com/products/premiere/): Edit videos using industry standard software
 - [YouTube Studio](https://studio.youtube.com): Upload and share videos online
 
-
-
-## Certification
-
-- [Certiport](https://certiport.pearsonvue.com/): Create an account and start earning certifications
-- [Compass Cloud](https://compasscloud.certiport.com/): Take certification tests online
-- [GMetrix](http://gmetrix.net/): Study and take practice certification tests (Exam Code: **30358-vgd-53951**)
+</details>
 
 
 
-## Business Development
+<details>
+
+<summary>Business Development</summary>
 
 - [Corporations and Charities System](https://ccfs.sos.wa.gov/#/): Register as a corporation in Washington State
 - [WA Department of Revenue](https://secure.dor.wa.gov/gteunauth/_/): Do taxes and fill out business forms for your corporation
@@ -164,24 +206,46 @@
 - [GoDaddy](https://www.godaddy.com/): Register custom domains for websites and emails
 - [Steamworks](https://partner.steamgames.com/): Upload your games to Steam and utilize its APIs
 
+</details>
 
 
-## Merchandising
+
+<details>
+
+<summary>Certification</summary>
+
+- [Certiport](https://certiport.pearsonvue.com/): Create an account and start earning certifications
+- [Compass Cloud](https://compasscloud.certiport.com/): Take certification tests online
+- [GMetrix](http://gmetrix.net/): Study and take practice certification tests (Exam Code: **30358-vgd-53951**)
+
+</details>
+
+
+
+<details>
+
+<summary>Merchandising</summary>
 
 - [VistaPrint](https://www.vistaprint.com/): Order promotional materials like posters and business cards
 - [Sticker Mule](https://www.stickermule.com/): Order promotional materials like stickers and pins
 - [Wooacry](https://wooacry.com/): Order promotional materials like stickers and pins
 
+</details>
 
 
-## Miscellaneous
+
+<details>
+
+<summary>Miscellaneous</summary>
 
 - [Creative Cloud](https://www.adobe.com/creativecloud.html): Manage Adobe software
+- [Wacom Drivers](https://www.wacom.com/en-us/support/product-support/drivers): Drivers needed for Wacom products
+- [Huion Drivers](https://www.huion.com/download/): Drivers needed for Huion products
 - [Meta Quest Developer Hub](https://developers.meta.com/horizon/documentation/unity/ts-mqdh/): Debug and deploy apps to Meta Quest devices
 - [7-Zip](https://www.7-zip.org/): Compress and extract Zip files using high-efficiency algorithms
 - [OpenGameArt.org](https://opengameart.org/): Browse through thousands of free-to-use art and audio assets for your game
-- [Wacom Drivers](https://www.wacom.com/en-us/support/product-support/drivers): Drivers needed for Wacom products
-- [Huion Drivers](https://www.huion.com/download/): Drivers needed for Huion products
+
+</details>
 
 </details>
 
