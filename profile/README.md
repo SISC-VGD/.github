@@ -272,7 +272,7 @@
 
 <details>
 
-<summary>Study & Materials</summary>
+<summary>Study & Research</summary>
 <br />
 
 <details>
