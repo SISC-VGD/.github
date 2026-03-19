@@ -589,7 +589,7 @@
 <details>
 
   <summary>
-    <h2>Miscellaneous Websites</h2>
+    <h2>Miscellaneous</h2>
   </summary>
 
   Other websites you'll be using that don't fit any of the above categories.
