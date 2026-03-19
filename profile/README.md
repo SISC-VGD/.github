@@ -563,7 +563,7 @@
   <details open>
 
    <summary>
-     <h2>Career</h2>
+     <h3>Career</h3>
    </summary>
 
    Career-focused websites that should be used when job hunting.
