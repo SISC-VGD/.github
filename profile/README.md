@@ -214,7 +214,8 @@
    - [Google Fonts](https://fonts.google.com/): Browse through Google's list of fonts
    - [Adobe Fonts](https://fonts.adobe.com/): Browse through Adobe's list of fonts
    - [DaFont](https://www.dafont.com/): Browse through hundreds of free-to-use fonts
-   - [FontStruct](https://fontstruct.com/): Create and export fonts using an online editor
+   - [FontStruct](https://fontstruct.com/): Create your own fonts using an online editor
+   - [Calligraphr](https://www.calligraphr.com/en/): Create your own fonts by writing them on papaer and scanning them
 
    ---
 
