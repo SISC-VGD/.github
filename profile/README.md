@@ -578,8 +578,9 @@
    - [Game Jams](https://itch.io/jams/): Take part in game jams around the world and develop your portfolio
    - [Hackathons](https://devpost.com/hackathons): Join hackathons around the world and win prizes
    - [Into Games](https://intogames.org/): View resources and learn more about the game industry
-   - [PAX West Booth Application](https://west.paxsite.com/en-us/get-involved.html): Submit a game to be exhibited at PAX West
-   - [SIX Booth Application](https://six.seattleindies.org/apply/): Submit a game to be exhibited at SIX
+   - [PAX West Application](https://west.paxsite.com/en-us/get-involved.html): Submit a game to be exhibited at PAX West
+   - [Seattle Indies Expo Application](https://six.seattleindies.org/apply/): Submit a game to be exhibited at SIX
+   - [GeekFest Application](https://www.geekfest.com/#/ApplyIAA?lang=en): Submit a game to be exhibited at GeekFest
   
   </details>
 
